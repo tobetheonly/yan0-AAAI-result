@@ -1,0 +1,1783 @@
+[
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.0,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 2.6999986648559573,
+                    "bdb_x": 1.0,
+                    "bdb_y": 1.349998664855957,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.94,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.0,
+                        "bdb_x": 1.6685324210896482,
+                        "bdb_y": 1.0,
+                        "bdb_z": 0.47,
+                        "children": [
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 0.543531956238098,
+                                "bdb_y": 0.2,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "A delicate nightstand",
+                                "height": 0.5,
+                                "label": "nightstand 1",
+                                "left": 0.19999999999999984,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right behind",
+                                    "double_bed 1"
+                                ],
+                                "top": 2.476466708617859,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 2.793531956238092,
+                                "bdb_y": 0.2,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "A delicate nightstand",
+                                "height": 0.5,
+                                "label": "nightstand 2",
+                                "left": 0.20000000000000007,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left behind",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.2264667086178649,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.26,
+                                "bdb_l": 0.4,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.38,
+                                "bdb_x": 1.6693624161105287,
+                                "bdb_y": 0.9995713080344766,
+                                "bdb_z": 1.6449442974403825,
+                                "depth": 1.6449442974403825,
+                                "description": "A pendant lamp with a modern design",
+                                "height": 0.26,
+                                "label": "pendant_lamp 1",
+                                "left": 0.9995713080344766,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.3506362487454282,
+                                "width": 0.38
+                            }
+                        ],
+                        "depth": 0.47,
+                        "description": "A sleek and comfortable queen-sized bed with a modern design",
+                        "height": 0.94,
+                        "label": "double_bed 1",
+                        "left": 1.0,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 1.3514662437663088,
+                        "width": 2.0
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 3.1,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "tight_length": 2.7,
+                    "tight_width": 2.0,
+                    "width": 2.3
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 0.65,
+                    "bdb_ori": 270.0,
+                    "bdb_w": 2.5,
+                    "bdb_x": 3.375000000000023,
+                    "bdb_y": 2.210000000001381,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.1,
+                        "bdb_l": 1.6,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.45,
+                        "bdb_x": 0.0011099941616743722,
+                        "bdb_y": 0.225,
+                        "bdb_z": 1.05,
+                        "children": [
+                            {
+                                "bdb_h": 0.75,
+                                "bdb_l": 0.6,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 1.3988900058383256,
+                                "bdb_y": 0.42500000001186305,
+                                "bdb_z": 0.375,
+                                "depth": 0.375,
+                                "description": "A small cabinet for additional storage",
+                                "height": 0.75,
+                                "label": "cabinet 1",
+                                "left": 3.27499999998816,
+                                "length": 0.6,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 270.0,
+                                "relative position": [
+                                    "cabinet 1",
+                                    "left of",
+                                    "wardrobe 1"
+                                ],
+                                "top": 3.158890005839707,
+                                "width": 0.45
+                            }
+                        ],
+                        "depth": 1.05,
+                        "description": "A high-class minimalist wardrobe",
+                        "height": 2.1,
+                        "label": "wardrobe 1",
+                        "left": 3.475000000000023,
+                        "length": 1.6,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 270.0,
+                        "top": 1.7611099941630555,
+                        "width": 0.45
+                    },
+                    "label": "storage_area 1",
+                    "length": 1.7,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 270.0,
+                    "tight_length": 2.5,
+                    "tight_width": 0.65,
+                    "width": 0.5
+                }
+            ],
+            "label": "bedroom",
+            "length": "3.70 ",
+            "width": " 3.46"
+        },
+        "is_optimized": [
+            true,
+            true
+        ],
+        "iter": 1,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.47,
+                    "description": "A sleek and comfortable queen-sized bed with a modern design",
+                    "height": 0.94,
+                    "left": 1.0,
+                    "length": 1.8,
+                    "orientation": 90.0,
+                    "top": 1.3514662437663088,
+                    "width": 2.0
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.25,
+                    "description": "A delicate nightstand",
+                    "height": 0.5,
+                    "left": 0.19999999999999984,
+                    "length": 0.45,
+                    "orientation": 90.0,
+                    "top": 2.476466708617859,
+                    "width": 0.4
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.25,
+                    "description": "A delicate nightstand",
+                    "height": 0.5,
+                    "left": 0.20000000000000007,
+                    "length": 0.45,
+                    "orientation": 90.0,
+                    "top": 0.2264667086178649,
+                    "width": 0.4
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.6449442974403825,
+                    "description": "A pendant lamp with a modern design",
+                    "height": 0.26,
+                    "left": 0.9995713080344766,
+                    "length": 0.4,
+                    "orientation": 90.0,
+                    "top": 1.3506362487454282,
+                    "width": 0.38
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.05,
+                    "description": "A high-class minimalist wardrobe",
+                    "height": 2.1,
+                    "left": 3.475000000000023,
+                    "length": 1.6,
+                    "orientation": 270.0,
+                    "top": 1.7611099941630555,
+                    "width": 0.45
+                }
+            ],
+            [
+                "cabinet 1",
+                {
+                    "depth": 0.375,
+                    "description": "A small cabinet for additional storage",
+                    "height": 0.75,
+                    "left": 3.27499999998816,
+                    "length": 0.6,
+                    "orientation": 270.0,
+                    "top": 3.158890005839707,
+                    "width": 0.45
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 3.698099999999999 x 3.456800000000000 meters\n",
+        "query_id": "52e1f54c-3d9b-4d69-bebc-decfdc950f7c_Bedroom-803"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 3.0,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 2.2,
+                    "bdb_x": 2.3899999999999997,
+                    "bdb_y": 1.1,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.95,
+                        "bdb_l": 2.0,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.2,
+                        "bdb_x": 1.5,
+                        "bdb_y": 1.1,
+                        "bdb_z": 0.475,
+                        "children": [
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 0.25,
+                                "bdb_y": 1.1,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a stylish nightstand with a drawer",
+                                "height": 0.5,
+                                "label": "nightstand 1",
+                                "left": 1.1399999999999997,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.1,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 2.75,
+                                "bdb_y": 1.1,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a stylish nightstand with a drawer",
+                                "height": 0.5,
+                                "label": "nightstand 2",
+                                "left": 3.6399999999999997,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.1,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.3,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.5,
+                                "bdb_x": 1.4992917036620974,
+                                "bdb_y": 1.0994037423812704,
+                                "bdb_z": 1.774944299987658,
+                                "depth": 1.774944299987658,
+                                "description": "a pendant lamp with a minimalist approach",
+                                "height": 0.3,
+                                "label": "pendant_lamp 1",
+                                "left": 2.389291703662097,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.0994037423812704,
+                                "width": 0.5
+                            }
+                        ],
+                        "depth": 0.475,
+                        "description": "a plush and cozy king-sized bed with a modern design",
+                        "height": 0.95,
+                        "label": "double_bed 1",
+                        "left": 2.3899999999999997,
+                        "length": 2.0,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 1.1,
+                        "width": 2.2
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 3.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "tight_length": 3.0,
+                    "tight_width": 2.2,
+                    "width": 2.7
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 0.55,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 2.74,
+                    "bdb_x": 0.27499999999999525,
+                    "bdb_y": 1.37,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.2,
+                        "bdb_l": 1.7,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.55,
+                        "bdb_x": 0.0003209366725107503,
+                        "bdb_y": 0.275,
+                        "bdb_z": 1.1,
+                        "children": [
+                            {
+                                "bdb_h": 1.7,
+                                "bdb_l": 0.35,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.35,
+                                "bdb_x": 1.714679063327489,
+                                "bdb_y": 0.3650000000775399,
+                                "bdb_z": 0.85,
+                                "depth": 0.85,
+                                "description": "a slender floor lamp with a brass finish",
+                                "height": 1.7,
+                                "label": "floor_lamp 1",
+                                "left": 0.3650000000775352,
+                                "length": 0.35,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 270.0,
+                                "relative position": [
+                                    "floor_lamp 1",
+                                    "left of",
+                                    "wardrobe 1"
+                                ],
+                                "top": 0.17532093667251103,
+                                "width": 0.35
+                            }
+                        ],
+                        "depth": 1.1,
+                        "description": "an elegant high-quality wooden wardrobe",
+                        "height": 2.2,
+                        "label": "wardrobe 1",
+                        "left": 0.2749999999999952,
+                        "length": 1.7,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 1.8896790633274894,
+                        "width": 0.55
+                    },
+                    "label": "storage_area 1",
+                    "length": 1.89,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "tight_length": 2.74,
+                    "tight_width": 0.55,
+                    "width": 0.6
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.849995613098145,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 0.7,
+                    "bdb_x": 2.9650021934509274,
+                    "bdb_y": 5.55,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.75,
+                        "bdb_l": 1.2,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.7,
+                        "bdb_x": 1.25,
+                        "bdb_y": 0.35,
+                        "bdb_z": 0.375,
+                        "children": [
+                            {
+                                "bdb_h": 0.9,
+                                "bdb_l": 0.65,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.65,
+                                "bdb_x": 0.325,
+                                "bdb_y": 0.34521203240486176,
+                                "bdb_z": 0.45,
+                                "depth": 0.45,
+                                "description": "a comfortable office chair with adjustable height",
+                                "height": 0.9,
+                                "label": "chair 1",
+                                "left": 3.5650021934509275,
+                                "length": 0.65,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "chair 1",
+                                    "right of",
+                                    "desk 1"
+                                ],
+                                "top": 5.554787967595138,
+                                "width": 0.65
+                            },
+                            {
+                                "bdb_h": 0.25,
+                                "bdb_l": 1.2,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.35,
+                                "bdb_x": 0.9,
+                                "bdb_y": 0.35061056993650164,
+                                "bdb_z": 1.2500000000000002,
+                                "depth": 1.2500000000000002,
+                                "description": "a simple yet functional wall-mounted shelf",
+                                "height": 0.25,
+                                "label": "shelf 1",
+                                "left": 2.9900021934509273,
+                                "length": 1.2,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "shelf 1",
+                                    "above",
+                                    "desk 1"
+                                ],
+                                "top": 5.549389430063498,
+                                "width": 0.35
+                            }
+                        ],
+                        "depth": 0.375,
+                        "description": "a compact and efficient study desk with storage",
+                        "height": 0.75,
+                        "label": "desk 1",
+                        "left": 2.6400021934509272,
+                        "length": 1.2,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 5.55,
+                        "width": 0.7
+                    },
+                    "label": "study_area 1",
+                    "length": 1.5,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "tight_length": 1.85,
+                    "tight_width": 0.7,
+                    "width": 1.5
+                }
+            ],
+            "label": "bedroom",
+            "length": "3.89 ",
+            "width": " 5.90"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 1,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.475,
+                    "description": "a plush and cozy king-sized bed with a modern design",
+                    "height": 0.95,
+                    "left": 2.3899999999999997,
+                    "length": 2.0,
+                    "orientation": 0.0,
+                    "top": 1.1,
+                    "width": 2.2
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.25,
+                    "description": "a stylish nightstand with a drawer",
+                    "height": 0.5,
+                    "left": 1.1399999999999997,
+                    "length": 0.5,
+                    "orientation": 0.0,
+                    "top": 1.1,
+                    "width": 0.45
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.25,
+                    "description": "a stylish nightstand with a drawer",
+                    "height": 0.5,
+                    "left": 3.6399999999999997,
+                    "length": 0.5,
+                    "orientation": 0.0,
+                    "top": 1.1,
+                    "width": 0.45
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.774944299987658,
+                    "description": "a pendant lamp with a minimalist approach",
+                    "height": 0.3,
+                    "left": 2.389291703662097,
+                    "length": 0.5,
+                    "orientation": 0.0,
+                    "top": 1.0994037423812704,
+                    "width": 0.5
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.1,
+                    "description": "an elegant high-quality wooden wardrobe",
+                    "height": 2.2,
+                    "left": 0.2749999999999952,
+                    "length": 1.7,
+                    "orientation": 90.0,
+                    "top": 1.8896790633274894,
+                    "width": 0.55
+                }
+            ],
+            [
+                "floor_lamp 1",
+                {
+                    "depth": 0.85,
+                    "description": "a slender floor lamp with a brass finish",
+                    "height": 1.7,
+                    "left": 0.3650000000775352,
+                    "length": 0.35,
+                    "orientation": 270.0,
+                    "top": 0.17532093667251103,
+                    "width": 0.35
+                }
+            ],
+            [
+                "desk 1",
+                {
+                    "depth": 0.375,
+                    "description": "a compact and efficient study desk with storage",
+                    "height": 0.75,
+                    "left": 2.6400021934509272,
+                    "length": 1.2,
+                    "orientation": 180.0,
+                    "top": 5.55,
+                    "width": 0.7
+                }
+            ],
+            [
+                "chair 1",
+                {
+                    "depth": 0.45,
+                    "description": "a comfortable office chair with adjustable height",
+                    "height": 0.9,
+                    "left": 3.5650021934509275,
+                    "length": 0.65,
+                    "orientation": 180.0,
+                    "top": 5.554787967595138,
+                    "width": 0.65
+                }
+            ],
+            [
+                "shelf 1",
+                {
+                    "depth": 1.2500000000000002,
+                    "description": "a simple yet functional wall-mounted shelf",
+                    "height": 0.25,
+                    "left": 2.9900021934509273,
+                    "length": 1.2,
+                    "orientation": 180.0,
+                    "top": 5.549389430063498,
+                    "width": 0.35
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 3.885300000000000 x 5.896 meters\n",
+        "query_id": "a1af2150-95a7-4047-82e3-6b4c22875390_SecondBedroom-142"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.7,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 2.0,
+                    "bdb_x": 2.3600001467817977,
+                    "bdb_y": 1.0,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.94,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.0,
+                        "bdb_x": 1.3819110389838762,
+                        "bdb_y": 1.0,
+                        "bdb_z": 0.47,
+                        "children": [
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 0.25691103898388334,
+                                "bdb_y": 1.0,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a minimalist nightstand",
+                                "height": 0.5,
+                                "label": "nightstand 1",
+                                "left": 1.2369111857656812,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.0,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 2.50691103898387,
+                                "bdb_y": 1.0,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a minimalist nightstand",
+                                "height": 0.5,
+                                "label": "nightstand 2",
+                                "left": 3.486911185765668,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.0,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.26,
+                                "bdb_l": 0.4,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.38,
+                                "bdb_x": 1.381253064557268,
+                                "bdb_y": 0.9992157732353482,
+                                "bdb_z": 1.6199999999999999,
+                                "depth": 1.6199999999999999,
+                                "description": "a pendant lamp with a modern design",
+                                "height": 0.26,
+                                "label": "pendant_lamp 1",
+                                "left": 2.361253211339066,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.9992157732353482,
+                                "width": 0.38
+                            }
+                        ],
+                        "depth": 0.47,
+                        "description": "a queen-sized bed with a modern design",
+                        "height": 0.94,
+                        "label": "double_bed 1",
+                        "left": 2.361911185765674,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 1.0,
+                        "width": 2.0
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 3.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "tight_length": 2.7,
+                    "tight_width": 2.0,
+                    "width": 2.2
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.7999948501586973,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 0.45,
+                    "bdb_x": 2.8100025749206514,
+                    "bdb_y": 4.675000000000001,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.1,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.45,
+                        "bdb_x": 0.0,
+                        "bdb_y": 0.225,
+                        "bdb_z": 1.05,
+                        "children": [],
+                        "depth": 1.05,
+                        "description": "a spacious modern wardrobe",
+                        "height": 2.1,
+                        "label": "wardrobe 1",
+                        "left": 2.8100025749206514,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 4.675000000000001,
+                        "width": 0.45
+                    },
+                    "label": "storage_area 1",
+                    "length": 2.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "tight_length": 1.8,
+                    "tight_width": 0.45,
+                    "width": 0.5
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.4,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 1.5,
+                    "bdb_x": 0.7,
+                    "bdb_y": 4.15,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.75,
+                        "bdb_l": 1.2,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.6,
+                        "bdb_x": 0.9,
+                        "bdb_y": 0.3,
+                        "bdb_z": 0.375,
+                        "children": [
+                            {
+                                "bdb_h": 1.0,
+                                "bdb_l": 0.6,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.6,
+                                "bdb_x": 0.3003099728168187,
+                                "bdb_y": 0.9,
+                                "bdb_z": 0.5,
+                                "depth": 0.5,
+                                "description": "a comfortable office chair",
+                                "height": 1.0,
+                                "label": "chair 1",
+                                "left": 1.1,
+                                "length": 0.6,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "chair 1",
+                                    "right of",
+                                    "desk 1"
+                                ],
+                                "top": 4.599690027183182,
+                                "width": 0.6
+                            },
+                            {
+                                "bdb_h": 1.6,
+                                "bdb_l": 0.3,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.3,
+                                "bdb_x": 1.35,
+                                "bdb_y": 0.75,
+                                "bdb_z": 0.8,
+                                "depth": 0.8,
+                                "description": "a modern floor lamp",
+                                "height": 1.6,
+                                "label": "floor_lamp 1",
+                                "left": 0.95,
+                                "length": 0.3,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "floor_lamp 1",
+                                    "left of",
+                                    "desk 1"
+                                ],
+                                "top": 3.5500000000000003,
+                                "width": 0.3
+                            },
+                            {
+                                "bdb_h": 1.2,
+                                "bdb_l": 0.3,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.8,
+                                "bdb_x": 0.15,
+                                "bdb_y": 0.2,
+                                "bdb_z": 0.6,
+                                "depth": 0.6,
+                                "description": "a small bookshelf",
+                                "height": 1.2,
+                                "label": "bookshelf 1",
+                                "left": 0.3999999999999999,
+                                "length": 0.8,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "bookshelf 1",
+                                    "behind",
+                                    "desk 1"
+                                ],
+                                "top": 4.75,
+                                "width": 0.3
+                            }
+                        ],
+                        "depth": 0.375,
+                        "description": "a sleek study desk",
+                        "height": 0.75,
+                        "label": "desk 1",
+                        "left": 0.49999999999999994,
+                        "length": 1.2,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 4.0,
+                        "width": 0.6
+                    },
+                    "label": "study_area 1",
+                    "length": 1.5,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "tight_length": 1.5,
+                    "tight_width": 1.4,
+                    "width": 1.5
+                }
+            ],
+            "label": "bedroom",
+            "length": "3.71 ",
+            "width": " 4.90"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 1,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.47,
+                    "description": "a queen-sized bed with a modern design",
+                    "height": 0.94,
+                    "left": 2.361911185765674,
+                    "length": 1.8,
+                    "orientation": 0.0,
+                    "top": 1.0,
+                    "width": 2.0
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.25,
+                    "description": "a minimalist nightstand",
+                    "height": 0.5,
+                    "left": 1.2369111857656812,
+                    "length": 0.45,
+                    "orientation": 0.0,
+                    "top": 1.0,
+                    "width": 0.4
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.25,
+                    "description": "a minimalist nightstand",
+                    "height": 0.5,
+                    "left": 3.486911185765668,
+                    "length": 0.45,
+                    "orientation": 0.0,
+                    "top": 1.0,
+                    "width": 0.4
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.6199999999999999,
+                    "description": "a pendant lamp with a modern design",
+                    "height": 0.26,
+                    "left": 2.361253211339066,
+                    "length": 0.4,
+                    "orientation": 0.0,
+                    "top": 0.9992157732353482,
+                    "width": 0.38
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.05,
+                    "description": "a spacious modern wardrobe",
+                    "height": 2.1,
+                    "left": 2.8100025749206514,
+                    "length": 1.8,
+                    "orientation": 180.0,
+                    "top": 4.675000000000001,
+                    "width": 0.45
+                }
+            ],
+            [
+                "desk 1",
+                {
+                    "depth": 0.375,
+                    "description": "a sleek study desk",
+                    "height": 0.75,
+                    "left": 0.49999999999999994,
+                    "length": 1.2,
+                    "orientation": 90.0,
+                    "top": 4.0,
+                    "width": 0.6
+                }
+            ],
+            [
+                "chair 1",
+                {
+                    "depth": 0.5,
+                    "description": "a comfortable office chair",
+                    "height": 1.0,
+                    "left": 1.1,
+                    "length": 0.6,
+                    "orientation": 0.0,
+                    "top": 4.599690027183182,
+                    "width": 0.6
+                }
+            ],
+            [
+                "floor_lamp 1",
+                {
+                    "depth": 0.8,
+                    "description": "a modern floor lamp",
+                    "height": 1.6,
+                    "left": 0.95,
+                    "length": 0.3,
+                    "orientation": 0.0,
+                    "top": 3.5500000000000003,
+                    "width": 0.3
+                }
+            ],
+            [
+                "bookshelf 1",
+                {
+                    "depth": 0.6,
+                    "description": "a small bookshelf",
+                    "height": 1.2,
+                    "left": 0.3999999999999999,
+                    "length": 0.8,
+                    "orientation": 0.0,
+                    "top": 4.75,
+                    "width": 0.3
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 3.714299999999999 x 4.90370000000000 meters\n",
+        "query_id": "756382a6-5d6b-4bdd-8f48-4bb8cddf9df8_MasterBedroom-12848"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.2,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 2.9999984741210937,
+                    "bdb_x": 1.1,
+                    "bdb_y": 1.4999984741210937,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.9,
+                        "bdb_l": 2.0,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.2,
+                        "bdb_x": 1.6779200949636273,
+                        "bdb_y": 1.1,
+                        "bdb_z": 0.45,
+                        "children": [
+                            {
+                                "bdb_h": 0.55,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 0.4279201134389441,
+                                "bdb_y": 1.1,
+                                "bdb_z": 0.275,
+                                "depth": 0.275,
+                                "description": "a sophisticated nightstand",
+                                "height": 0.55,
+                                "label": "nightstand 1",
+                                "left": 1.1,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 2.7520783606821495,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.55,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 2.9279200949636275,
+                                "bdb_y": 1.1,
+                                "bdb_z": 0.275,
+                                "depth": 0.275,
+                                "description": "a sophisticated nightstand",
+                                "height": 0.55,
+                                "label": "nightstand 2",
+                                "left": 1.1,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.2520783791574661,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.25,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 1.678565538873494,
+                                "bdb_y": 1.1004345495442616,
+                                "bdb_z": 1.7374442978429958,
+                                "depth": 1.7374442978429958,
+                                "description": "a pendant lamp with a sleek design",
+                                "height": 0.25,
+                                "label": "pendant_lamp 1",
+                                "left": 1.1004345495442616,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.5014329352475997,
+                                "width": 0.45
+                            }
+                        ],
+                        "depth": 0.45,
+                        "description": "a plush king-sized bed with a modern design",
+                        "height": 0.9,
+                        "label": "double_bed 1",
+                        "left": 1.1,
+                        "length": 2.0,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 1.5020783791574663,
+                        "width": 2.2
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 3.5,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "tight_length": 3.0,
+                    "tight_width": 2.2,
+                    "width": 2.85
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.8,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 0.55,
+                    "bdb_x": 3.95,
+                    "bdb_y": 0.2749999999999999,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.2,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.55,
+                        "bdb_x": 0.0,
+                        "bdb_y": 0.275,
+                        "bdb_z": 1.1,
+                        "children": [],
+                        "depth": 1.1,
+                        "description": "a minimalist spacious wardrobe",
+                        "height": 2.2,
+                        "label": "wardrobe 1",
+                        "left": 3.95,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.2749999999999999,
+                        "width": 0.55
+                    },
+                    "label": "storage_area 1",
+                    "length": 2.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "tight_length": 1.8,
+                    "tight_width": 0.55,
+                    "width": 0.6
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.0,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 0.7,
+                    "bdb_x": 3.85,
+                    "bdb_y": 4.54,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.75,
+                        "bdb_l": 1.4,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.7,
+                        "bdb_x": 1.3061836269758231,
+                        "bdb_y": 0.35,
+                        "bdb_z": 0.375,
+                        "children": [
+                            {
+                                "bdb_h": 0.85,
+                                "bdb_l": 0.6,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.6,
+                                "bdb_x": 0.30618362697582313,
+                                "bdb_y": 0.35,
+                                "bdb_z": 0.425,
+                                "depth": 0.425,
+                                "description": "a comfortable study chair",
+                                "height": 0.85,
+                                "label": "chair 1",
+                                "left": 4.553816373024177,
+                                "length": 0.6,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "chair 1",
+                                    "right of",
+                                    "desk 1"
+                                ],
+                                "top": 4.54,
+                                "width": 0.6
+                            },
+                            {
+                                "bdb_h": 0.2,
+                                "bdb_l": 0.35,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.35,
+                                "bdb_x": 1.3065583415544821,
+                                "bdb_y": 0.3507138674033225,
+                                "bdb_z": 1.2249442311764178,
+                                "depth": 1.2249442311764178,
+                                "description": "a ceiling lamp with a modern design",
+                                "height": 0.2,
+                                "label": "ceiling_lamp 1",
+                                "left": 3.553441658445518,
+                                "length": 0.35,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "ceiling_lamp 1",
+                                    "above",
+                                    "desk 1"
+                                ],
+                                "top": 4.539286132596677,
+                                "width": 0.35
+                            }
+                        ],
+                        "depth": 0.375,
+                        "description": "a sleek study desk",
+                        "height": 0.75,
+                        "label": "desk 1",
+                        "left": 3.553816373024177,
+                        "length": 1.4,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 4.54,
+                        "width": 0.7
+                    },
+                    "label": "study_area 1",
+                    "length": 2.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "tight_length": 2.0,
+                    "tight_width": 0.7,
+                    "width": 1.5
+                }
+            ],
+            "label": "bedroom",
+            "length": "4.85 ",
+            "width": " 4.89"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 1,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.45,
+                    "description": "a plush king-sized bed with a modern design",
+                    "height": 0.9,
+                    "left": 1.1,
+                    "length": 2.0,
+                    "orientation": 90.0,
+                    "top": 1.5020783791574663,
+                    "width": 2.2
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.275,
+                    "description": "a sophisticated nightstand",
+                    "height": 0.55,
+                    "left": 1.1,
+                    "length": 0.5,
+                    "orientation": 90.0,
+                    "top": 2.7520783606821495,
+                    "width": 0.45
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.275,
+                    "description": "a sophisticated nightstand",
+                    "height": 0.55,
+                    "left": 1.1,
+                    "length": 0.5,
+                    "orientation": 90.0,
+                    "top": 0.2520783791574661,
+                    "width": 0.45
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.7374442978429958,
+                    "description": "a pendant lamp with a sleek design",
+                    "height": 0.25,
+                    "left": 1.1004345495442616,
+                    "length": 0.45,
+                    "orientation": 90.0,
+                    "top": 1.5014329352475997,
+                    "width": 0.45
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.1,
+                    "description": "a minimalist spacious wardrobe",
+                    "height": 2.2,
+                    "left": 3.95,
+                    "length": 1.8,
+                    "orientation": 0.0,
+                    "top": 0.2749999999999999,
+                    "width": 0.55
+                }
+            ],
+            [
+                "desk 1",
+                {
+                    "depth": 0.375,
+                    "description": "a sleek study desk",
+                    "height": 0.75,
+                    "left": 3.553816373024177,
+                    "length": 1.4,
+                    "orientation": 180.0,
+                    "top": 4.54,
+                    "width": 0.7
+                }
+            ],
+            [
+                "chair 1",
+                {
+                    "depth": 0.425,
+                    "description": "a comfortable study chair",
+                    "height": 0.85,
+                    "left": 4.553816373024177,
+                    "length": 0.6,
+                    "orientation": 90.0,
+                    "top": 4.54,
+                    "width": 0.6
+                }
+            ],
+            [
+                "ceiling_lamp 1",
+                {
+                    "depth": 1.2249442311764178,
+                    "description": "a ceiling lamp with a modern design",
+                    "height": 0.2,
+                    "left": 3.553441658445518,
+                    "length": 0.35,
+                    "orientation": 90.0,
+                    "top": 4.539286132596677,
+                    "width": 0.35
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 4.8525 x 4.891 meters\n",
+        "query_id": "a0fc42de-e479-416f-b9f0-e39d823af4b2_SecondBedroom-72989"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.25,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 2.4,
+                    "bdb_x": 1.125,
+                    "bdb_y": 2.58,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.94,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.0,
+                        "bdb_x": 0.85,
+                        "bdb_y": 1.0,
+                        "bdb_z": 0.47,
+                        "children": [
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 0.22500000000000003,
+                                "bdb_y": -0.2,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a compact wooden nightstand",
+                                "height": 0.5,
+                                "label": "nightstand 1",
+                                "left": 1.9749999999999996,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right behind",
+                                    "double_bed 1"
+                                ],
+                                "top": 3.58,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 1.975,
+                                "bdb_y": 0.20018893713451713,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a compact wooden nightstand",
+                                "height": 0.5,
+                                "label": "nightstand 2",
+                                "left": 0.22499999999999976,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left behind",
+                                    "double_bed 1"
+                                ],
+                                "top": 3.179811062865483,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.26,
+                                "bdb_l": 0.4,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.38,
+                                "bdb_x": 0.8490882297619925,
+                                "bdb_y": 0.9998779532217674,
+                                "bdb_z": 1.5673252665804203,
+                                "depth": 1.5673252665804203,
+                                "description": "a round pendant lamp with soft lighting",
+                                "height": 0.26,
+                                "label": "pendant_lamp 1",
+                                "left": 1.3509117702380076,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 2.380122046778233,
+                                "width": 0.38
+                            }
+                        ],
+                        "depth": 0.47,
+                        "description": "a modern queensized bed with a minimalist design",
+                        "height": 0.94,
+                        "label": "double_bed 1",
+                        "left": 1.35,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 2.3800000000000003,
+                        "width": 2.0
+                    },
+                    "label": " Sleeping Area 1",
+                    "length": 2.2,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "tight_length": 2.25,
+                    "tight_width": 2.4,
+                    "width": 2.0
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.71,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 0.6,
+                    "bdb_x": 1.4050000000000002,
+                    "bdb_y": 0.3,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.1,
+                        "bdb_l": 1.72,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.45,
+                        "bdb_x": 0.001572373942050965,
+                        "bdb_y": 0.225,
+                        "bdb_z": 1.05,
+                        "children": [
+                            {
+                                "bdb_h": 1.6,
+                                "bdb_l": 0.4,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 1.6484276260579491,
+                                "bdb_y": 0.4,
+                                "bdb_z": 0.8,
+                                "depth": 0.8,
+                                "description": "a tall standing lamp with a fabric shade",
+                                "height": 1.6,
+                                "label": "floor_lamp 1",
+                                "left": 2.5584276260579495,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_global"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "floor_lamp 1",
+                                    "left of",
+                                    "wardrobe 1"
+                                ],
+                                "top": 0.4,
+                                "width": 0.4
+                            }
+                        ],
+                        "depth": 1.05,
+                        "description": "a sleek white wardrobe with sliding doors",
+                        "height": 2.1,
+                        "label": "wardrobe 1",
+                        "left": 0.9115723739420512,
+                        "length": 1.72,
+                        "optimization": [
+                            "obj_local",
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.225,
+                        "width": 0.45
+                    },
+                    "label": "Storage Area 1",
+                    "length": 1.85,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "tight_length": 2.71,
+                    "tight_width": 0.6,
+                    "width": 0.5
+                }
+            ],
+            "label": "bedroom",
+            "length": "2.76 ",
+            "width": " 3.78"
+        },
+        "is_optimized": [
+            true,
+            true
+        ],
+        "iter": 1,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.47,
+                    "description": "a modern queensized bed with a minimalist design",
+                    "height": 0.94,
+                    "left": 1.35,
+                    "length": 1.8,
+                    "orientation": 180.0,
+                    "top": 2.3800000000000003,
+                    "width": 2.0
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.25,
+                    "description": "a compact wooden nightstand",
+                    "height": 0.5,
+                    "left": 1.9749999999999996,
+                    "length": 0.45,
+                    "orientation": 180.0,
+                    "top": 3.58,
+                    "width": 0.4
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.25,
+                    "description": "a compact wooden nightstand",
+                    "height": 0.5,
+                    "left": 0.22499999999999976,
+                    "length": 0.45,
+                    "orientation": 180.0,
+                    "top": 3.179811062865483,
+                    "width": 0.4
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.5673252665804203,
+                    "description": "a round pendant lamp with soft lighting",
+                    "height": 0.26,
+                    "left": 1.3509117702380076,
+                    "length": 0.4,
+                    "orientation": 180.0,
+                    "top": 2.380122046778233,
+                    "width": 0.38
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.05,
+                    "description": "a sleek white wardrobe with sliding doors",
+                    "height": 2.1,
+                    "left": 0.9115723739420512,
+                    "length": 1.72,
+                    "orientation": 0.0,
+                    "top": 0.225,
+                    "width": 0.45
+                }
+            ],
+            [
+                "floor_lamp 1",
+                {
+                    "depth": 0.8,
+                    "description": "a tall standing lamp with a fabric shade",
+                    "height": 1.6,
+                    "left": 2.5584276260579495,
+                    "length": 0.4,
+                    "orientation": 180.0,
+                    "top": 0.4,
+                    "width": 0.4
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 2.756 x 3.778199999999999 meters\n",
+        "query_id": "0ca13717-8f2a-485f-b991-6211ff18a00b_SecondBedroom-116650"
+    }
+]
