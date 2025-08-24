@@ -1,0 +1,3303 @@
+[
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.2,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 2.8999973297119146,
+                    "bdb_x": 1.1,
+                    "bdb_y": 2.0100013351440427,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 1.0,
+                        "bdb_l": 1.9,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.2,
+                        "bdb_x": 1.481257372836176,
+                        "bdb_y": 1.1,
+                        "bdb_z": 0.5,
+                        "children": [
+                            {
+                                "bdb_h": 0.55,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 0.2812573728361758,
+                                "bdb_y": 1.1,
+                                "bdb_z": 0.275,
+                                "depth": 0.275,
+                                "description": "a wooden nightstand with a drawer",
+                                "height": 0.55,
+                                "label": "nightstand 1",
+                                "left": 1.1,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 3.208743962307867,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.55,
+                                "bdb_l": 0.5,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 2.681257372836176,
+                                "bdb_y": 1.1,
+                                "bdb_z": 0.275,
+                                "depth": 0.275,
+                                "description": "a wooden nightstand with a drawer",
+                                "height": 0.55,
+                                "label": "nightstand 2",
+                                "left": 1.1,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.8087439623078665,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.2,
+                                "bdb_l": 0.6,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.6,
+                                "bdb_x": 1.480753635675678,
+                                "bdb_y": 1.0991046266107252,
+                                "bdb_z": 1.6749442978230642,
+                                "depth": 1.6749442978230642,
+                                "description": "a ceiling lamp with a minimalist design",
+                                "height": 0.2,
+                                "label": "ceiling_lamp 1",
+                                "left": 1.0991046266107252,
+                                "length": 0.6,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "ceiling_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 2.0092476994683643,
+                                "width": 0.6
+                            }
+                        ],
+                        "depth": 0.5,
+                        "description": "a soft and comfortable king-sized bed with a classic design",
+                        "height": 1.0,
+                        "label": "double_bed 1",
+                        "left": 1.1,
+                        "length": 1.9,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 2.0087439623078667,
+                        "width": 2.2
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 3.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.050000011920929,
+                                    -0.7999999970197678,
+                                    -0.00023708217486273497
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right behind",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.050000011920929,
+                                    -0.7999999970197678,
+                                    -0.000306708796415478
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left behind",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.111326664686203,
+                                    0.22668568789958954,
+                                    2.3288991451263428
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.06515370309352875,
+                                    0.4617117643356323,
+                                    -5.243967461865395e-05
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "desk",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.6500000134110451,
+                                    -0.20000001043081284,
+                                    0.9249852299690247
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 2.9,
+                    "tight_width": 2.2,
+                    "width": 2.3
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.5,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 1.0,
+                    "bdb_x": 2.95,
+                    "bdb_y": 0.5,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 1.7,
+                        "bdb_l": 1.5,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.55,
+                        "bdb_x": 0.225,
+                        "bdb_y": 0.275,
+                        "bdb_z": 0.85,
+                        "children": [
+                            {
+                                "bdb_h": 0.8,
+                                "bdb_l": 0.45,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 0.225,
+                                "bdb_y": 0.7749999999999999,
+                                "bdb_z": 0.4,
+                                "depth": 0.4,
+                                "description": "a comfortable chair with a soft cushion",
+                                "height": 0.8,
+                                "label": "dressing_chair 1",
+                                "left": 2.955,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "dressing_chair 1",
+                                    "in front of",
+                                    "dressing_table 1"
+                                ],
+                                "top": 0.7749999999999999,
+                                "width": 0.45
+                            }
+                        ],
+                        "depth": 0.85,
+                        "description": "a stylish dressing table with a large mirror",
+                        "height": 1.7,
+                        "label": "dressing_table 1",
+                        "left": 2.955,
+                        "length": 1.5,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.275,
+                        "width": 0.55
+                    },
+                    "label": "dressing_area 1",
+                    "length": 1.7,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.050000011920929,
+                                    -0.7999999970197678,
+                                    -0.00023708217486273497
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right behind",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.050000011920929,
+                                    -0.7999999970197678,
+                                    -0.000306708796415478
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left behind",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.111326664686203,
+                                    0.22668568789958954,
+                                    2.3288991451263428
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.06515370309352875,
+                                    0.4617117643356323,
+                                    -5.243967461865395e-05
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "desk",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.6500000134110451,
+                                    -0.20000001043081284,
+                                    0.9249852299690247
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 1.5,
+                    "tight_width": 1.0,
+                    "width": 1.16
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.8,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 0.45,
+                    "bdb_x": 2.8,
+                    "bdb_y": 3.2350000000000008,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.2,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.45,
+                        "bdb_x": 0.0,
+                        "bdb_y": 0.225,
+                        "bdb_z": 1.1,
+                        "children": [],
+                        "depth": 1.1,
+                        "description": "a spacious wardrobe with sliding doors",
+                        "height": 2.2,
+                        "label": "wardrobe 1",
+                        "left": 2.8,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 3.2350000000000008,
+                        "width": 0.45
+                    },
+                    "label": "storage_area 1",
+                    "length": 1.9,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.050000011920929,
+                                    -0.7999999970197678,
+                                    -0.00023708217486273497
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right behind",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.050000011920929,
+                                    -0.7999999970197678,
+                                    -0.000306708796415478
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left behind",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.111326664686203,
+                                    0.22668568789958954,
+                                    2.3288991451263428
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.06515370309352875,
+                                    0.4617117643356323,
+                                    -5.243967461865395e-05
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "desk",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.6500000134110451,
+                                    -0.20000001043081284,
+                                    0.9249852299690247
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 1.8,
+                    "tight_width": 0.45,
+                    "width": 0.5
+                }
+            ],
+            "label": "bedroom",
+            "length": "3.70 ",
+            "width": " 3.46"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 0,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.5,
+                    "description": "a soft and comfortable king-sized bed with a classic design",
+                    "height": 1.0,
+                    "left": 1.1,
+                    "length": 1.9,
+                    "orientation": 90.0,
+                    "top": 2.0087439623078667,
+                    "width": 2.2
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.275,
+                    "description": "a wooden nightstand with a drawer",
+                    "height": 0.55,
+                    "left": 1.1,
+                    "length": 0.5,
+                    "orientation": 90.0,
+                    "top": 3.208743962307867,
+                    "width": 0.45
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.275,
+                    "description": "a wooden nightstand with a drawer",
+                    "height": 0.55,
+                    "left": 1.1,
+                    "length": 0.5,
+                    "orientation": 90.0,
+                    "top": 0.8087439623078665,
+                    "width": 0.45
+                }
+            ],
+            [
+                "ceiling_lamp 1",
+                {
+                    "depth": 1.6749442978230642,
+                    "description": "a ceiling lamp with a minimalist design",
+                    "height": 0.2,
+                    "left": 1.0991046266107252,
+                    "length": 0.6,
+                    "orientation": 90.0,
+                    "top": 2.0092476994683643,
+                    "width": 0.6
+                }
+            ],
+            [
+                "dressing_table 1",
+                {
+                    "depth": 0.85,
+                    "description": "a stylish dressing table with a large mirror",
+                    "height": 1.7,
+                    "left": 2.955,
+                    "length": 1.5,
+                    "orientation": 0.0,
+                    "top": 0.275,
+                    "width": 0.55
+                }
+            ],
+            [
+                "dressing_chair 1",
+                {
+                    "depth": 0.4,
+                    "description": "a comfortable chair with a soft cushion",
+                    "height": 0.8,
+                    "left": 2.955,
+                    "length": 0.45,
+                    "orientation": 180.0,
+                    "top": 0.7749999999999999,
+                    "width": 0.45
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.1,
+                    "description": "a spacious wardrobe with sliding doors",
+                    "height": 2.2,
+                    "left": 2.8,
+                    "length": 1.8,
+                    "orientation": 180.0,
+                    "top": 3.2350000000000008,
+                    "width": 0.45
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 3.70 x 3.46 meters\n",
+        "query_id": "52e1f54c-3d9b-4d69-bebc-decfdc950f7c_Bedroom-803"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.3,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 1.9,
+                    "bdb_x": 1.6099999999876844,
+                    "bdb_y": 0.95,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.9,
+                        "bdb_l": 1.4,
+                        "bdb_ori": 0,
+                        "bdb_w": 1.9,
+                        "bdb_x": 0.8499999998376044,
+                        "bdb_y": 0.95,
+                        "bdb_z": 0.45,
+                        "children": [
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": -0.07500000022021369,
+                                "bdb_y": 0.20024903445291808,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a contemporary nightstand with a drawer",
+                                "height": 0.5,
+                                "label": "nightstand 1",
+                                "left": 0.6849999997674707,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.20024903445291808,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.5,
+                                "bdb_l": 0.45,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 1.7749999999273887,
+                                "bdb_y": 0.20023188233864897,
+                                "bdb_z": 0.25,
+                                "depth": 0.25,
+                                "description": "a contemporary nightstand with a drawer",
+                                "height": 0.5,
+                                "label": "nightstand 2",
+                                "left": 2.534999999915073,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.20023188233864897,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.2,
+                                "bdb_l": 0.3,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.3,
+                                "bdb_x": 0.8500059403038507,
+                                "bdb_y": 0.949982793620929,
+                                "bdb_z": 1.3749742570174646,
+                                "depth": 1.3749742570174646,
+                                "description": "a simple pendant lamp with a round shade",
+                                "height": 0.2,
+                                "label": "pendant_lamp 1",
+                                "left": 1.610005940291535,
+                                "length": 0.3,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.949982793620929,
+                                "width": 0.3
+                            }
+                        ],
+                        "depth": 0.45,
+                        "description": "a modern double bed with a high headrest",
+                        "height": 0.9,
+                        "label": "double_bed 1",
+                        "left": 1.609999999825289,
+                        "length": 1.4,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.95,
+                        "width": 1.9
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 2.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1499999910593033,
+                                    -0.8250000029802322,
+                                    -8.665867790114135e-05
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.1499999910593033,
+                                    -0.8250000029802322,
+                                    -7.684626325499266e-05
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "ceiling_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "ceiling_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.03524163365364075,
+                                    0.047054365277290344,
+                                    2.434584856033325
+                                ],
+                                "relative_position": [
+                                    "ceiling_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1121761798858643,
+                                    -0.04311457276344299,
+                                    1.4316705465316772
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 2.3,
+                    "tight_width": 1.9,
+                    "width": 1.5
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 0.9,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 0.55,
+                    "bdb_x": 2.31,
+                    "bdb_y": 3.505000000000001,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.0,
+                        "bdb_l": 0.9,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.55,
+                        "bdb_x": 0.0,
+                        "bdb_y": 0.275,
+                        "bdb_z": 1.0,
+                        "children": [],
+                        "depth": 1.0,
+                        "description": "a compact wardrobe with sliding doors",
+                        "height": 2.0,
+                        "label": "wardrobe 1",
+                        "left": 2.31,
+                        "length": 0.9,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 3.505000000000001,
+                        "width": 0.55
+                    },
+                    "label": "storage_area 1",
+                    "length": 1.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1499999910593033,
+                                    -0.8250000029802322,
+                                    -8.665867790114135e-05
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.1499999910593033,
+                                    -0.8250000029802322,
+                                    -7.684626325499266e-05
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "ceiling_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "ceiling_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.03524163365364075,
+                                    0.047054365277290344,
+                                    2.434584856033325
+                                ],
+                                "relative_position": [
+                                    "ceiling_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1121761798858643,
+                                    -0.04311457276344299,
+                                    1.4316705465316772
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 0.9,
+                    "tight_width": 0.55,
+                    "width": 0.6
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.45,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 1.6199999999999997,
+                    "bdb_x": 0.7249999999999973,
+                    "bdb_y": 2.9699999999999918,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.75,
+                        "bdb_l": 1.2,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.8,
+                        "bdb_x": 0.7831216681929123,
+                        "bdb_y": 0.4,
+                        "bdb_z": 0.375,
+                        "children": [
+                            {
+                                "bdb_h": 0.85,
+                                "bdb_l": 0.65,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.65,
+                                "bdb_x": 0.375,
+                                "bdb_y": 1.125,
+                                "bdb_z": 0.425,
+                                "depth": 0.425,
+                                "description": "a comfortable office chair with wheels",
+                                "height": 0.85,
+                                "label": "chair 1",
+                                "left": 1.1249999999999973,
+                                "length": 0.65,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 270.0,
+                                "relative position": [
+                                    "chair 1",
+                                    "in front of",
+                                    "desk 1"
+                                ],
+                                "top": 3.2849999999999917,
+                                "width": 0.65
+                            },
+                            {
+                                "bdb_h": 1.5,
+                                "bdb_l": 0.3,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.3,
+                                "bdb_x": 0.03312166819291229,
+                                "bdb_y": 0.39464924068723545,
+                                "bdb_z": 0.75,
+                                "depth": 0.75,
+                                "description": "a slim floor lamp with a white shade",
+                                "height": 1.5,
+                                "label": "floor_lamp 1",
+                                "left": 0.3946492406872327,
+                                "length": 0.3,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "floor_lamp 1",
+                                    "right of",
+                                    "desk 1"
+                                ],
+                                "top": 3.626878331807079,
+                                "width": 0.3
+                            },
+                            {
+                                "bdb_h": 1.2,
+                                "bdb_l": 0.8,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.3,
+                                "bdb_x": 1.1,
+                                "bdb_y": 0.95,
+                                "bdb_z": 0.6,
+                                "depth": 0.6,
+                                "description": "a small bookshelf with three shelves",
+                                "height": 1.2,
+                                "label": "bookshelf 1",
+                                "left": 0.9499999999999973,
+                                "length": 0.8,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "bookshelf 1",
+                                    "left of",
+                                    "desk 1"
+                                ],
+                                "top": 2.5599999999999916,
+                                "width": 0.3
+                            }
+                        ],
+                        "depth": 0.375,
+                        "description": "a small wooden desk with a drawer",
+                        "height": 0.75,
+                        "label": "desk 1",
+                        "left": 0.39999999999999736,
+                        "length": 1.2,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 2.876878331807079,
+                        "width": 0.8
+                    },
+                    "label": "study_area 1",
+                    "length": 1.5,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1499999910593033,
+                                    -0.8250000029802322,
+                                    -8.665867790114135e-05
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.1499999910593033,
+                                    -0.8250000029802322,
+                                    -7.684626325499266e-05
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "ceiling_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "ceiling_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.03524163365364075,
+                                    0.047054365277290344,
+                                    2.434584856033325
+                                ],
+                                "relative_position": [
+                                    "ceiling_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1121761798858643,
+                                    -0.04311457276344299,
+                                    1.4316705465316772
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 1.62,
+                    "tight_width": 1.45,
+                    "width": 1.0
+                }
+            ],
+            "label": "bedroom",
+            "length": "2.76 ",
+            "width": " 3.78"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 0,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.45,
+                    "description": "a modern double bed with a high headrest",
+                    "height": 0.9,
+                    "left": 1.609999999825289,
+                    "length": 1.4,
+                    "orientation": 0.0,
+                    "top": 0.95,
+                    "width": 1.9
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.25,
+                    "description": "a contemporary nightstand with a drawer",
+                    "height": 0.5,
+                    "left": 0.6849999997674707,
+                    "length": 0.45,
+                    "orientation": 0.0,
+                    "top": 0.20024903445291808,
+                    "width": 0.4
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.25,
+                    "description": "a contemporary nightstand with a drawer",
+                    "height": 0.5,
+                    "left": 2.534999999915073,
+                    "length": 0.45,
+                    "orientation": 0.0,
+                    "top": 0.20023188233864897,
+                    "width": 0.4
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.3749742570174646,
+                    "description": "a simple pendant lamp with a round shade",
+                    "height": 0.2,
+                    "left": 1.610005940291535,
+                    "length": 0.3,
+                    "orientation": 0.0,
+                    "top": 0.949982793620929,
+                    "width": 0.3
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.0,
+                    "description": "a compact wardrobe with sliding doors",
+                    "height": 2.0,
+                    "left": 2.31,
+                    "length": 0.9,
+                    "orientation": 180.0,
+                    "top": 3.505000000000001,
+                    "width": 0.55
+                }
+            ],
+            [
+                "desk 1",
+                {
+                    "depth": 0.375,
+                    "description": "a small wooden desk with a drawer",
+                    "height": 0.75,
+                    "left": 0.39999999999999736,
+                    "length": 1.2,
+                    "orientation": 90.0,
+                    "top": 2.876878331807079,
+                    "width": 0.8
+                }
+            ],
+            [
+                "chair 1",
+                {
+                    "depth": 0.425,
+                    "description": "a comfortable office chair with wheels",
+                    "height": 0.85,
+                    "left": 1.1249999999999973,
+                    "length": 0.65,
+                    "orientation": 270.0,
+                    "top": 3.2849999999999917,
+                    "width": 0.65
+                }
+            ],
+            [
+                "floor_lamp 1",
+                {
+                    "depth": 0.75,
+                    "description": "a slim floor lamp with a white shade",
+                    "height": 1.5,
+                    "left": 0.3946492406872327,
+                    "length": 0.3,
+                    "orientation": 0.0,
+                    "top": 3.626878331807079,
+                    "width": 0.3
+                }
+            ],
+            [
+                "bookshelf 1",
+                {
+                    "depth": 0.6,
+                    "description": "a small bookshelf with three shelves",
+                    "height": 1.2,
+                    "left": 0.9499999999999973,
+                    "length": 0.8,
+                    "orientation": 90.0,
+                    "top": 2.5599999999999916,
+                    "width": 0.3
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 2.76 x 3.78 meters\n",
+        "query_id": "0ca13717-8f2a-485f-b991-6211ff18a00b_SecondBedroom-116650"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.8,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 2.07,
+                    "bdb_x": 1.4,
+                    "bdb_y": 3.195000000000001,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.9,
+                        "bdb_l": 1.8,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.0,
+                        "bdb_x": 1.1,
+                        "bdb_y": 1.0,
+                        "bdb_z": 0.45,
+                        "children": [
+                            {
+                                "bdb_h": 0.6,
+                                "bdb_l": 0.5,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.5,
+                                "bdb_x": -0.05,
+                                "bdb_y": 0.2500016610812862,
+                                "bdb_z": 0.3,
+                                "depth": 0.3,
+                                "description": "a simple wooden nightstand",
+                                "height": 0.6,
+                                "label": "nightstand 1",
+                                "left": 2.55,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 3.979998338918715,
+                                "width": 0.5
+                            },
+                            {
+                                "bdb_h": 0.6,
+                                "bdb_l": 0.5,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.5,
+                                "bdb_x": 2.25,
+                                "bdb_y": 0.25,
+                                "bdb_z": 0.3,
+                                "depth": 0.3,
+                                "description": "a simple wooden nightstand",
+                                "height": 0.6,
+                                "label": "nightstand 2",
+                                "left": 0.25,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 3.980000000000001,
+                                "width": 0.5
+                            },
+                            {
+                                "bdb_h": 1.5,
+                                "bdb_l": 0.2,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.2,
+                                "bdb_x": 0.1,
+                                "bdb_y": 1.9700888708912085,
+                                "bdb_z": 0.75,
+                                "depth": 0.75,
+                                "description": "a sleek metal floor lamp",
+                                "height": 1.5,
+                                "label": "floor_lamp 1",
+                                "left": 2.4000000000000004,
+                                "length": 0.2,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "floor_lamp 1",
+                                    "right front of",
+                                    "double_bed 1"
+                                ],
+                                "top": 2.2599111291087928,
+                                "width": 0.2
+                            }
+                        ],
+                        "depth": 0.45,
+                        "description": "a comfortable king-sized bed with a classic design",
+                        "height": 0.9,
+                        "label": "double_bed 1",
+                        "left": 1.4,
+                        "length": 1.8,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 3.2300000000000013,
+                        "width": 2.0
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 2.2,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.199999988079071,
+                                    -0.7750000059604645,
+                                    -0.0038848617114126682
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.199999988079071,
+                                    -0.7750000059604645,
+                                    -0.00018512648239266127
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1272469758987427,
+                                    -0.16951853036880493,
+                                    1.004327416419983
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.06043699383735657,
+                                    0.36852192878723145,
+                                    -0.00015155602886807173
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "bookshelf",
+                                "func_obj": "desk",
+                                "obj": "bookshelf",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.7860957980155945,
+                                    0.2771546244621277,
+                                    0.1500190645456314
+                                ],
+                                "relative_position": [
+                                    "bookshelf",
+                                    "above",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 2.8,
+                    "tight_width": 2.07,
+                    "width": 3.0
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.2,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 0.95,
+                    "bdb_x": 0.6,
+                    "bdb_y": 0.47499999999999964,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.8,
+                        "bdb_l": 1.2,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.6,
+                        "bdb_x": 0.36468135353296494,
+                        "bdb_y": 0.3,
+                        "bdb_z": 0.4,
+                        "children": [
+                            {
+                                "bdb_h": 0.45,
+                                "bdb_l": 0.35,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.35,
+                                "bdb_x": 0.36468135353296494,
+                                "bdb_y": 0.7749999999999999,
+                                "bdb_z": 0.225,
+                                "depth": 0.225,
+                                "description": "a small stool with a cushion",
+                                "height": 0.45,
+                                "label": "stool 1",
+                                "left": 0.6046813535329649,
+                                "length": 0.35,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "stool 1",
+                                    "in front of",
+                                    "dressing_table 1"
+                                ],
+                                "top": 0.7749999999999996,
+                                "width": 0.35
+                            },
+                            {
+                                "bdb_h": 0.2,
+                                "bdb_l": 0.3,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.3,
+                                "bdb_x": 0.36713124228857696,
+                                "bdb_y": 0.2996761703671092,
+                                "bdb_z": 1.1249433340343522,
+                                "depth": 1.1249433340343522,
+                                "description": "a pendant lamp with a classic design",
+                                "height": 0.2,
+                                "label": "pendant_lamp 1",
+                                "left": 0.607131242288577,
+                                "length": 0.3,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "dressing_table 1"
+                                ],
+                                "top": 0.29967617036710886,
+                                "width": 0.3
+                            }
+                        ],
+                        "depth": 0.4,
+                        "description": "a vintage wooden dressing table with a mirror",
+                        "height": 0.8,
+                        "label": "dressing_table 1",
+                        "left": 0.6046813535329649,
+                        "length": 1.2,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.29999999999999966,
+                        "width": 0.6
+                    },
+                    "label": "dressing_area 1",
+                    "length": 1.5,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.199999988079071,
+                                    -0.7750000059604645,
+                                    -0.0038848617114126682
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.199999988079071,
+                                    -0.7750000059604645,
+                                    -0.00018512648239266127
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1272469758987427,
+                                    -0.16951853036880493,
+                                    1.004327416419983
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.06043699383735657,
+                                    0.36852192878723145,
+                                    -0.00015155602886807173
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "bookshelf",
+                                "func_obj": "desk",
+                                "obj": "bookshelf",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.7860957980155945,
+                                    0.2771546244621277,
+                                    0.1500190645456314
+                                ],
+                                "relative_position": [
+                                    "bookshelf",
+                                    "above",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 1.2,
+                    "tight_width": 0.95,
+                    "width": 0.9
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 0.7,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 0.6,
+                    "bdb_x": 2.45,
+                    "bdb_y": 0.3,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.0,
+                        "bdb_l": 0.7,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.6,
+                        "bdb_x": 0.0,
+                        "bdb_y": 0.3,
+                        "bdb_z": 1.0,
+                        "children": [],
+                        "depth": 1.0,
+                        "description": "a modern minimalist wardrobe",
+                        "height": 2.0,
+                        "label": "wardrobe 1",
+                        "left": 2.45,
+                        "length": 0.7,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.3,
+                        "width": 0.6
+                    },
+                    "label": "storage_area 1",
+                    "length": 0.8,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.199999988079071,
+                                    -0.7750000059604645,
+                                    -0.0038848617114126682
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.199999988079071,
+                                    -0.7750000059604645,
+                                    -0.00018512648239266127
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1272469758987427,
+                                    -0.16951853036880493,
+                                    1.004327416419983
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.06043699383735657,
+                                    0.36852192878723145,
+                                    -0.00015155602886807173
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "bookshelf",
+                                "func_obj": "desk",
+                                "obj": "bookshelf",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.7860957980155945,
+                                    0.2771546244621277,
+                                    0.1500190645456314
+                                ],
+                                "relative_position": [
+                                    "bookshelf",
+                                    "above",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 0.7,
+                    "tight_width": 0.6,
+                    "width": 1.0
+                }
+            ],
+            "label": "bedroom",
+            "length": "2.80 ",
+            "width": " 4.23"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 0,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.45,
+                    "description": "a comfortable king-sized bed with a classic design",
+                    "height": 0.9,
+                    "left": 1.4,
+                    "length": 1.8,
+                    "orientation": 180.0,
+                    "top": 3.2300000000000013,
+                    "width": 2.0
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.3,
+                    "description": "a simple wooden nightstand",
+                    "height": 0.6,
+                    "left": 2.55,
+                    "length": 0.5,
+                    "orientation": 180.0,
+                    "top": 3.979998338918715,
+                    "width": 0.5
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.3,
+                    "description": "a simple wooden nightstand",
+                    "height": 0.6,
+                    "left": 0.25,
+                    "length": 0.5,
+                    "orientation": 180.0,
+                    "top": 3.980000000000001,
+                    "width": 0.5
+                }
+            ],
+            [
+                "floor_lamp 1",
+                {
+                    "depth": 0.75,
+                    "description": "a sleek metal floor lamp",
+                    "height": 1.5,
+                    "left": 2.4000000000000004,
+                    "length": 0.2,
+                    "orientation": 180.0,
+                    "top": 2.2599111291087928,
+                    "width": 0.2
+                }
+            ],
+            [
+                "dressing_table 1",
+                {
+                    "depth": 0.4,
+                    "description": "a vintage wooden dressing table with a mirror",
+                    "height": 0.8,
+                    "left": 0.6046813535329649,
+                    "length": 1.2,
+                    "orientation": 0.0,
+                    "top": 0.29999999999999966,
+                    "width": 0.6
+                }
+            ],
+            [
+                "stool 1",
+                {
+                    "depth": 0.225,
+                    "description": "a small stool with a cushion",
+                    "height": 0.45,
+                    "left": 0.6046813535329649,
+                    "length": 0.35,
+                    "orientation": 180.0,
+                    "top": 0.7749999999999996,
+                    "width": 0.35
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.1249433340343522,
+                    "description": "a pendant lamp with a classic design",
+                    "height": 0.2,
+                    "left": 0.607131242288577,
+                    "length": 0.3,
+                    "orientation": 180.0,
+                    "top": 0.29967617036710886,
+                    "width": 0.3
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.0,
+                    "description": "a modern minimalist wardrobe",
+                    "height": 2.0,
+                    "left": 2.45,
+                    "length": 0.7,
+                    "orientation": 0.0,
+                    "top": 0.3,
+                    "width": 0.6
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 2.80 x 4.23 meters\n",
+        "query_id": "0925adc7-8bb3-4080-a3bc-8bf19d5d2916_SecondBedroom-25214"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.0,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 2.9,
+                    "bdb_x": 1.0,
+                    "bdb_y": 1.45,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.7,
+                        "bdb_l": 1.9,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.0,
+                        "bdb_x": 1.45,
+                        "bdb_y": 1.0,
+                        "bdb_z": 0.35,
+                        "children": [
+                            {
+                                "bdb_h": 0.6,
+                                "bdb_l": 0.5,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 0.25,
+                                "bdb_y": 0.22499999999999998,
+                                "bdb_z": 0.3,
+                                "depth": 0.3,
+                                "description": "a vintage nightstand",
+                                "height": 0.6,
+                                "label": "nightstand 1",
+                                "left": 0.22499999999999987,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 2.65,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.6,
+                                "bdb_l": 0.5,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 2.65,
+                                "bdb_y": 0.22499999999999998,
+                                "bdb_z": 0.3,
+                                "depth": 0.3,
+                                "description": "a vintage nightstand",
+                                "height": 0.6,
+                                "label": "nightstand 2",
+                                "left": 0.2250000000000001,
+                                "length": 0.5,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.25,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 0.25,
+                                "bdb_l": 0.4,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 1.4504644453928608,
+                                "bdb_y": 0.9995132486715238,
+                                "bdb_z": 1.332444292407963,
+                                "depth": 1.332444292407963,
+                                "description": "a ceiling lamp with a classic design",
+                                "height": 0.25,
+                                "label": "ceiling_lamp 1",
+                                "left": 0.9995132486715238,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "ceiling_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.4495355546071391,
+                                "width": 0.4
+                            }
+                        ],
+                        "depth": 0.35,
+                        "description": "a luxurious king-sized bed with a classic design",
+                        "height": 0.7,
+                        "label": "double_bed 1",
+                        "left": 1.0,
+                        "length": 1.9,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 1.45,
+                        "width": 2.0
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 2.9,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1249999701976776,
+                                    -0.7999999970197678,
+                                    -0.00016417219012510031
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.1249999701976776,
+                                    -0.7999999970197678,
+                                    -0.00019148089631926268
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": -90.0,
+                                "relative_coordinate": [
+                                    -0.0810118317604065,
+                                    -0.06878367066383362,
+                                    2.4127445220947266
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.04893946647644043,
+                                    0.505928635597229,
+                                    -0.0001379764435114339
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "desk",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.6259564757347107,
+                                    -0.0826927125453949,
+                                    1.136556625366211
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "bookshelf",
+                                "func_obj": "desk",
+                                "obj": "bookshelf",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.0000000298023224,
+                                    -0.15000000596046448,
+                                    -0.0005870820605196059
+                                ],
+                                "relative_position": [
+                                    "bookshelf",
+                                    "left of",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 2.9,
+                    "tight_width": 2.0,
+                    "width": 2.03
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.5,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 0.35,
+                    "bdb_x": 2.8,
+                    "bdb_y": 0.17499999999999982,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.1,
+                        "bdb_l": 1.5,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.35,
+                        "bdb_x": 0.0,
+                        "bdb_y": 0.175,
+                        "bdb_z": 1.05,
+                        "children": [],
+                        "depth": 1.05,
+                        "description": "a vintage wardrobe",
+                        "height": 2.1,
+                        "label": "wardrobe 1",
+                        "left": 2.8,
+                        "length": 1.5,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 0.17499999999999982,
+                        "width": 0.35
+                    },
+                    "label": "storage_area 1",
+                    "length": 1.65,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1249999701976776,
+                                    -0.7999999970197678,
+                                    -0.00016417219012510031
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.1249999701976776,
+                                    -0.7999999970197678,
+                                    -0.00019148089631926268
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": -90.0,
+                                "relative_coordinate": [
+                                    -0.0810118317604065,
+                                    -0.06878367066383362,
+                                    2.4127445220947266
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.04893946647644043,
+                                    0.505928635597229,
+                                    -0.0001379764435114339
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "desk",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.6259564757347107,
+                                    -0.0826927125453949,
+                                    1.136556625366211
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "bookshelf",
+                                "func_obj": "desk",
+                                "obj": "bookshelf",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.0000000298023224,
+                                    -0.15000000596046448,
+                                    -0.0005870820605196059
+                                ],
+                                "relative_position": [
+                                    "bookshelf",
+                                    "left of",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 1.5,
+                    "tight_width": 0.35,
+                    "width": 0.4
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 0.9,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 1.1,
+                    "bdb_x": 3.1,
+                    "bdb_y": 2.4799999999999995,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.95,
+                        "bdb_l": 0.9,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.7,
+                        "bdb_x": 0.779977374207904,
+                        "bdb_y": 0.35,
+                        "bdb_z": 0.475,
+                        "children": [
+                            {
+                                "bdb_h": 0.45,
+                                "bdb_l": 0.4,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 0.779977374207904,
+                                "bdb_y": 0.9,
+                                "bdb_z": 0.225,
+                                "depth": 0.225,
+                                "description": "a classic dressing chair",
+                                "height": 0.45,
+                                "label": "dressing_chair 1",
+                                "left": 3.100022625792096,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 180.0,
+                                "relative position": [
+                                    "dressing_chair 1",
+                                    "in front of",
+                                    "dressing_table 1"
+                                ],
+                                "top": 2.1299999999999994,
+                                "width": 0.4
+                            },
+                            {
+                                "bdb_h": 0.2,
+                                "bdb_l": 0.2,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.2,
+                                "bdb_x": 0.7770343758812377,
+                                "bdb_y": 0.34973764337282476,
+                                "bdb_z": 1.2999430724592602,
+                                "depth": 1.2999430724592602,
+                                "description": "a pendant lamp with a classic design",
+                                "height": 0.2,
+                                "label": "pendant_lamp 1",
+                                "left": 3.102965624118762,
+                                "length": 0.2,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "pendant_lamp 1",
+                                    "above",
+                                    "dressing_table 1"
+                                ],
+                                "top": 2.680262356627175,
+                                "width": 0.2
+                            }
+                        ],
+                        "depth": 0.475,
+                        "description": "a classic dressing table",
+                        "height": 0.95,
+                        "label": "dressing_table 1",
+                        "left": 3.100022625792096,
+                        "length": 0.9,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 2.6799999999999997,
+                        "width": 0.7
+                    },
+                    "label": "dressing_area 1",
+                    "length": 1.0,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.1249999701976776,
+                                    -0.7999999970197678,
+                                    -0.00016417219012510031
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.1249999701976776,
+                                    -0.7999999970197678,
+                                    -0.00019148089631926268
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": -90.0,
+                                "relative_coordinate": [
+                                    -0.0810118317604065,
+                                    -0.06878367066383362,
+                                    2.4127445220947266
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "chair",
+                                "func_obj": "desk",
+                                "obj": "chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.04893946647644043,
+                                    0.505928635597229,
+                                    -0.0001379764435114339
+                                ],
+                                "relative_position": [
+                                    "chair",
+                                    "in front of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "desk",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.6259564757347107,
+                                    -0.0826927125453949,
+                                    1.136556625366211
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "desk"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "desk",
+                                "cor_pred_obj": "bookshelf",
+                                "func_obj": "desk",
+                                "obj": "bookshelf",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.0000000298023224,
+                                    -0.15000000596046448,
+                                    -0.0005870820605196059
+                                ],
+                                "relative_position": [
+                                    "bookshelf",
+                                    "left of",
+                                    "desk"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 0.9,
+                    "tight_width": 1.1,
+                    "width": 1.0
+                }
+            ],
+            "label": "bedroom",
+            "length": "3.55 ",
+            "width": " 3.03"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 0,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.35,
+                    "description": "a luxurious king-sized bed with a classic design",
+                    "height": 0.7,
+                    "left": 1.0,
+                    "length": 1.9,
+                    "orientation": 90.0,
+                    "top": 1.45,
+                    "width": 2.0
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.3,
+                    "description": "a vintage nightstand",
+                    "height": 0.6,
+                    "left": 0.22499999999999987,
+                    "length": 0.5,
+                    "orientation": 90.0,
+                    "top": 2.65,
+                    "width": 0.45
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.3,
+                    "description": "a vintage nightstand",
+                    "height": 0.6,
+                    "left": 0.2250000000000001,
+                    "length": 0.5,
+                    "orientation": 90.0,
+                    "top": 0.25,
+                    "width": 0.45
+                }
+            ],
+            [
+                "ceiling_lamp 1",
+                {
+                    "depth": 1.332444292407963,
+                    "description": "a ceiling lamp with a classic design",
+                    "height": 0.25,
+                    "left": 0.9995132486715238,
+                    "length": 0.4,
+                    "orientation": 90.0,
+                    "top": 1.4495355546071391,
+                    "width": 0.4
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.05,
+                    "description": "a vintage wardrobe",
+                    "height": 2.1,
+                    "left": 2.8,
+                    "length": 1.5,
+                    "orientation": 0.0,
+                    "top": 0.17499999999999982,
+                    "width": 0.35
+                }
+            ],
+            [
+                "dressing_table 1",
+                {
+                    "depth": 0.475,
+                    "description": "a classic dressing table",
+                    "height": 0.95,
+                    "left": 3.100022625792096,
+                    "length": 0.9,
+                    "orientation": 180.0,
+                    "top": 2.6799999999999997,
+                    "width": 0.7
+                }
+            ],
+            [
+                "dressing_chair 1",
+                {
+                    "depth": 0.225,
+                    "description": "a classic dressing chair",
+                    "height": 0.45,
+                    "left": 3.100022625792096,
+                    "length": 0.4,
+                    "orientation": 180.0,
+                    "top": 2.1299999999999994,
+                    "width": 0.4
+                }
+            ],
+            [
+                "pendant_lamp 1",
+                {
+                    "depth": 1.2999430724592602,
+                    "description": "a pendant lamp with a classic design",
+                    "height": 0.2,
+                    "left": 3.102965624118762,
+                    "length": 0.2,
+                    "orientation": 90.0,
+                    "top": 2.680262356627175,
+                    "width": 0.2
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 3.55 x 3.03 meters\n",
+        "query_id": "2c6d0cdd-d4f0-4937-8401-3c13680aaa61_Bedroom-933"
+    },
+    {
+        "hierarchy_data": {
+            "children": [
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.8,
+                    "bdb_ori": 0.0,
+                    "bdb_w": 2.2,
+                    "bdb_x": 1.5700004904784215,
+                    "bdb_y": 1.1,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.75,
+                        "bdb_l": 1.9,
+                        "bdb_ori": 0,
+                        "bdb_w": 2.2,
+                        "bdb_x": 1.5220606422237577,
+                        "bdb_y": 1.1,
+                        "bdb_z": 0.375,
+                        "children": [
+                            {
+                                "bdb_h": 0.6,
+                                "bdb_l": 0.45,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.35,
+                                "bdb_x": 0.3470606422237581,
+                                "bdb_y": 0.301165254354093,
+                                "bdb_z": 0.3,
+                                "depth": 0.3,
+                                "description": "a wooden nightstand",
+                                "height": 0.6,
+                                "label": "nightstand 1",
+                                "left": 0.3970611327021796,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 1",
+                                    "right of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.301165254354093,
+                                "width": 0.35
+                            },
+                            {
+                                "bdb_h": 0.6,
+                                "bdb_l": 0.45,
+                                "bdb_ori": 0.0,
+                                "bdb_w": 0.35,
+                                "bdb_x": 2.6970606422237573,
+                                "bdb_y": 0.30028356029404624,
+                                "bdb_z": 0.3,
+                                "depth": 0.3,
+                                "description": "a wooden nightstand",
+                                "height": 0.6,
+                                "label": "nightstand 2",
+                                "left": 2.7470611327021786,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "nightstand 2",
+                                    "left of",
+                                    "double_bed 1"
+                                ],
+                                "top": 0.30028356029404624,
+                                "width": 0.35
+                            },
+                            {
+                                "bdb_h": 0.2,
+                                "bdb_l": 0.4,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.4,
+                                "bdb_x": 1.5223963625047812,
+                                "bdb_y": 1.0999073369137138,
+                                "bdb_z": 1.5925,
+                                "depth": 1.5925,
+                                "description": "a round ceiling lamp",
+                                "height": 0.2,
+                                "label": "ceiling_lamp 1",
+                                "left": 1.5723968529832026,
+                                "length": 0.4,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "ceiling_lamp 1",
+                                    "above",
+                                    "double_bed 1"
+                                ],
+                                "top": 1.0999073369137138,
+                                "width": 0.4
+                            }
+                        ],
+                        "depth": 0.375,
+                        "description": "a large and cozy king-sized bed with a classic design",
+                        "height": 0.75,
+                        "label": "double_bed 1",
+                        "left": 1.5720611327021792,
+                        "length": 1.9,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 0.0,
+                        "top": 1.1,
+                        "width": 2.2
+                    },
+                    "label": "sleeping_area 1",
+                    "length": 2.97,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 0.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.149999976158142,
+                                    -0.7999999970197678,
+                                    -0.046352364122867584
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.149999976158142,
+                                    -0.7999999970197678,
+                                    -0.00895861815661192
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.005003286525607109,
+                                    -0.16718822717666626,
+                                    2.324187994003296
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "dressing_table",
+                                "cor_pred_obj": "dressing_chair",
+                                "func_obj": "dressing_table",
+                                "obj": "dressing_chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.023195864632725716,
+                                    0.4533562660217285,
+                                    -0.000229993078391999
+                                ],
+                                "relative_position": [
+                                    "dressing_chair",
+                                    "in front of",
+                                    "dressing_table"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "dressing_table",
+                                "cor_pred_obj": "ceiling_lamp",
+                                "func_obj": "dressing_table",
+                                "obj": "ceiling_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.004640860483050346,
+                                    0.09426726400852203,
+                                    2.2304649353027344
+                                ],
+                                "relative_position": [
+                                    "ceiling_lamp",
+                                    "above",
+                                    "dressing_table"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.7999999821186066,
+                                    -0.19999998807907104,
+                                    1.0370914936065674
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 2.8,
+                    "tight_width": 2.2,
+                    "width": 3.0
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 2.0,
+                    "bdb_ori": 180.0,
+                    "bdb_w": 0.6,
+                    "bdb_x": 1.9700000000000004,
+                    "bdb_y": 5.04,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 2.2,
+                        "bdb_l": 2.0,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.6,
+                        "bdb_x": 0.6304368515332228,
+                        "bdb_y": 0.3,
+                        "bdb_z": 1.1,
+                        "children": [
+                            {
+                                "bdb_h": 0.15,
+                                "bdb_l": 0.9,
+                                "bdb_ori": 180.0,
+                                "bdb_w": 0.2,
+                                "bdb_x": 0.6298917925638385,
+                                "bdb_y": 0.2996237293723053,
+                                "bdb_z": 2.8599436042565483,
+                                "depth": 2.8599436042565483,
+                                "description": "a wall-mounted shelf",
+                                "height": 0.15,
+                                "label": "shelf 1",
+                                "left": 1.9701082074361618,
+                                "length": 0.9,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "shelf 1",
+                                    "above",
+                                    "wardrobe 1"
+                                ],
+                                "top": 5.040376270627695,
+                                "width": 0.2
+                            }
+                        ],
+                        "depth": 1.1,
+                        "description": "a spacious wardrobe with a glass door",
+                        "height": 2.2,
+                        "label": "wardrobe 1",
+                        "left": 1.9695631484667775,
+                        "length": 2.0,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 180.0,
+                        "top": 5.04,
+                        "width": 0.6
+                    },
+                    "label": "storage_area 1",
+                    "length": 2.97,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 180.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.149999976158142,
+                                    -0.7999999970197678,
+                                    -0.046352364122867584
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.149999976158142,
+                                    -0.7999999970197678,
+                                    -0.00895861815661192
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.005003286525607109,
+                                    -0.16718822717666626,
+                                    2.324187994003296
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "dressing_table",
+                                "cor_pred_obj": "dressing_chair",
+                                "func_obj": "dressing_table",
+                                "obj": "dressing_chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.023195864632725716,
+                                    0.4533562660217285,
+                                    -0.000229993078391999
+                                ],
+                                "relative_position": [
+                                    "dressing_chair",
+                                    "in front of",
+                                    "dressing_table"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "dressing_table",
+                                "cor_pred_obj": "ceiling_lamp",
+                                "func_obj": "dressing_table",
+                                "obj": "ceiling_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.004640860483050346,
+                                    0.09426726400852203,
+                                    2.2304649353027344
+                                ],
+                                "relative_position": [
+                                    "ceiling_lamp",
+                                    "above",
+                                    "dressing_table"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.7999999821186066,
+                                    -0.19999998807907104,
+                                    1.0370914936065674
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 2.0,
+                    "tight_width": 0.6,
+                    "width": 2.34
+                },
+                {
+                    "bdb_h": 0.0,
+                    "bdb_l": 1.05,
+                    "bdb_ori": 90.0,
+                    "bdb_w": 1.45,
+                    "bdb_x": 0.5249999999999937,
+                    "bdb_y": 4.615000381469726,
+                    "bdb_z": 0.0,
+                    "children": {
+                        "bdb_h": 0.75,
+                        "bdb_l": 1.2,
+                        "bdb_ori": 0,
+                        "bdb_w": 0.6,
+                        "bdb_x": 0.85,
+                        "bdb_y": 0.3,
+                        "bdb_z": 0.375,
+                        "children": [
+                            {
+                                "bdb_h": 0.85,
+                                "bdb_l": 0.45,
+                                "bdb_ori": -0.0,
+                                "bdb_w": 0.45,
+                                "bdb_x": 0.85,
+                                "bdb_y": 0.8249999999999997,
+                                "bdb_z": 0.425,
+                                "depth": 0.425,
+                                "description": "a comfortable study chair",
+                                "height": 0.85,
+                                "label": "chair 1",
+                                "left": 0.8249999999999934,
+                                "length": 0.45,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 90.0,
+                                "relative position": [
+                                    "chair 1",
+                                    "in front of",
+                                    "desk 1"
+                                ],
+                                "top": 4.490000381469726,
+                                "width": 0.45
+                            },
+                            {
+                                "bdb_h": 1.6,
+                                "bdb_l": 0.25,
+                                "bdb_ori": 270.0,
+                                "bdb_w": 0.25,
+                                "bdb_x": 0.125,
+                                "bdb_y": 0.3,
+                                "bdb_z": 0.8,
+                                "depth": 0.8,
+                                "description": "a sleek floor lamp",
+                                "height": 1.6,
+                                "label": "floor_lamp 1",
+                                "left": 0.2999999999999936,
+                                "length": 0.25,
+                                "optimization": [
+                                    "obj_local"
+                                ],
+                                "orientation": 0.0,
+                                "relative position": [
+                                    "floor_lamp 1",
+                                    "right of",
+                                    "desk 1"
+                                ],
+                                "top": 5.215000381469726,
+                                "width": 0.25
+                            }
+                        ],
+                        "depth": 0.375,
+                        "description": "a compact study desk with drawers",
+                        "height": 0.75,
+                        "label": "desk 1",
+                        "left": 0.29999999999999366,
+                        "length": 1.2,
+                        "optimization": [
+                            "obj_local"
+                        ],
+                        "orientation": 90.0,
+                        "top": 4.490000381469726,
+                        "width": 0.6
+                    },
+                    "label": "study_area 1",
+                    "length": 1.5,
+                    "optimization": [
+                        "area_global"
+                    ],
+                    "orientation": 90.0,
+                    "rel_pos_constraints": [
+                        [
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -1.149999976158142,
+                                    -0.7999999970197678,
+                                    -0.046352364122867584
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "right of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "nightstand",
+                                "func_obj": "double_bed",
+                                "obj": "nightstand",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    1.149999976158142,
+                                    -0.7999999970197678,
+                                    -0.00895861815661192
+                                ],
+                                "relative_position": [
+                                    "nightstand",
+                                    "left of",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "double_bed",
+                                "cor_pred_obj": "pendant_lamp",
+                                "func_obj": "double_bed",
+                                "obj": "pendant_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    0.005003286525607109,
+                                    -0.16718822717666626,
+                                    2.324187994003296
+                                ],
+                                "relative_position": [
+                                    "pendant_lamp",
+                                    "above",
+                                    "double_bed"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "dressing_table",
+                                "cor_pred_obj": "dressing_chair",
+                                "func_obj": "dressing_table",
+                                "obj": "dressing_chair",
+                                "rel_ori": 180.0,
+                                "relative_coordinate": [
+                                    -0.023195864632725716,
+                                    0.4533562660217285,
+                                    -0.000229993078391999
+                                ],
+                                "relative_position": [
+                                    "dressing_chair",
+                                    "in front of",
+                                    "dressing_table"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "dressing_table",
+                                "cor_pred_obj": "ceiling_lamp",
+                                "func_obj": "dressing_table",
+                                "obj": "ceiling_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.004640860483050346,
+                                    0.09426726400852203,
+                                    2.2304649353027344
+                                ],
+                                "relative_position": [
+                                    "ceiling_lamp",
+                                    "above",
+                                    "dressing_table"
+                                ]
+                            },
+                            {
+                                "cor_pred_func_obj": "wardrobe",
+                                "cor_pred_obj": "floor_lamp",
+                                "func_obj": "wardrobe",
+                                "obj": "floor_lamp",
+                                "rel_ori": 0.0,
+                                "relative_coordinate": [
+                                    -0.7999999821186066,
+                                    -0.19999998807907104,
+                                    1.0370914936065674
+                                ],
+                                "relative_position": [
+                                    "floor_lamp",
+                                    "right of",
+                                    "wardrobe"
+                                ]
+                            }
+                        ]
+                    ],
+                    "tight_length": 1.45,
+                    "tight_width": 1.05,
+                    "width": 2.0
+                }
+            ],
+            "label": "bedroom",
+            "length": "2.97 ",
+            "width": " 5.34"
+        },
+        "is_optimized": [
+            true,
+            true,
+            true
+        ],
+        "iter": 0,
+        "object_list": [
+            [
+                "double_bed 1",
+                {
+                    "depth": 0.375,
+                    "description": "a large and cozy king-sized bed with a classic design",
+                    "height": 0.75,
+                    "left": 1.5720611327021792,
+                    "length": 1.9,
+                    "orientation": 0.0,
+                    "top": 1.1,
+                    "width": 2.2
+                }
+            ],
+            [
+                "nightstand 1",
+                {
+                    "depth": 0.3,
+                    "description": "a wooden nightstand",
+                    "height": 0.6,
+                    "left": 0.3970611327021796,
+                    "length": 0.45,
+                    "orientation": 0.0,
+                    "top": 0.301165254354093,
+                    "width": 0.35
+                }
+            ],
+            [
+                "nightstand 2",
+                {
+                    "depth": 0.3,
+                    "description": "a wooden nightstand",
+                    "height": 0.6,
+                    "left": 2.7470611327021786,
+                    "length": 0.45,
+                    "orientation": 0.0,
+                    "top": 0.30028356029404624,
+                    "width": 0.35
+                }
+            ],
+            [
+                "ceiling_lamp 1",
+                {
+                    "depth": 1.5925,
+                    "description": "a round ceiling lamp",
+                    "height": 0.2,
+                    "left": 1.5723968529832026,
+                    "length": 0.4,
+                    "orientation": 0.0,
+                    "top": 1.0999073369137138,
+                    "width": 0.4
+                }
+            ],
+            [
+                "wardrobe 1",
+                {
+                    "depth": 1.1,
+                    "description": "a spacious wardrobe with a glass door",
+                    "height": 2.2,
+                    "left": 1.9695631484667775,
+                    "length": 2.0,
+                    "orientation": 180.0,
+                    "top": 5.04,
+                    "width": 0.6
+                }
+            ],
+            [
+                "shelf 1",
+                {
+                    "depth": 2.8599436042565483,
+                    "description": "a wall-mounted shelf",
+                    "height": 0.15,
+                    "left": 1.9701082074361618,
+                    "length": 0.9,
+                    "orientation": 0.0,
+                    "top": 5.040376270627695,
+                    "width": 0.2
+                }
+            ],
+            [
+                "desk 1",
+                {
+                    "depth": 0.375,
+                    "description": "a compact study desk with drawers",
+                    "height": 0.75,
+                    "left": 0.29999999999999366,
+                    "length": 1.2,
+                    "orientation": 90.0,
+                    "top": 4.490000381469726,
+                    "width": 0.6
+                }
+            ],
+            [
+                "chair 1",
+                {
+                    "depth": 0.425,
+                    "description": "a comfortable study chair",
+                    "height": 0.85,
+                    "left": 0.8249999999999934,
+                    "length": 0.45,
+                    "orientation": 90.0,
+                    "top": 4.490000381469726,
+                    "width": 0.45
+                }
+            ],
+            [
+                "floor_lamp 1",
+                {
+                    "depth": 0.8,
+                    "description": "a sleek floor lamp",
+                    "height": 1.6,
+                    "left": 0.2999999999999936,
+                    "length": 0.25,
+                    "orientation": 0.0,
+                    "top": 5.215000381469726,
+                    "width": 0.25
+                }
+            ]
+        ],
+        "prompt": "Condition:\nRoom Type: bedroom\nRoom Size: 2.97 x 5.34 meters\n",
+        "query_id": "b4605349-5ca9-44ec-bb78-1edf5fac49b5_SecondBedroom-44692"
+    }
+]
