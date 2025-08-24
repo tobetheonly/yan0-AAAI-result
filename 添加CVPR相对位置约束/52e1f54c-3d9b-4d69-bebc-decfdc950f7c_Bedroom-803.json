@@ -1,0 +1,23 @@
+{
+    "choices":[
+        {
+            "finish_reason":"stop",
+            "index":0,
+            "logprobs":null,
+            "message":{
+                "content":"sleeping_area 1 | 2.698099999999999 x 2.956800000000000 meters:\ndouble_bed 1 | a modern styled king-sized bed | 2.00 x 1.80 x 0.90 meters | [1.349049999999999, 1.4784, 0.45] | place_center, sleeping_area 1 | 0\nnightstand 1 | a wooden nightstand | 0.45 x 0.40 x 0.50 meters | right behind, double_bed 1 | 0\nnightstand 2 | a wooden nightstand | 0.45 x 0.40 x 0.50 meters | left behind, double_bed 1 | 0\npendant_lamp 1 | a pendant lamp with a contemporary design | 0.40 x 0.38 x 0.26 meters | above, double_bed 1 | 0\n\nstorage_area 1 | 1.00 x 0.50 meters:\nwardrobe 1 | a spacious and elegant wardrobe | 0.90 x 0.48 x 2.10 meters | [3.198099999999999, 3.2068, 1.05] | place_along_wall, storage_area 1 | 180\n\nstudy_area 1 | 1.50 x 1.50 meters:\ndesk 1 | a sleek study desk with a comfortable chair | 1.20 x 0.70 x 0.75 meters | [2.648099999999999, 2.7068, 0.375] | place_center, study_area 1 | 270\nchair 1 | a comfortable chair | 0.50 x 0.45 x 0.80 meters | in front of, desk 1 | 90\n\ndressing_area 1 | 1.50 x 1.00 meters:\ndressing_table 1 | a vanity table with a mirror | 1.20 x 0.50 x 0.75 meters | [0.75, 2.9568, 0.375] | place_along_wall, dressing_area 1 | 90\ndressing_chair 1 | a delicate dressing chair | 0.45 x 0.40 x 0.50 meters | in front of, dressing_table 1 | 270",
+                "role":"assistant"
+            }
+        }
+    ],
+    "created":1744895227,
+    "id":"chatcmpl-sMwkAD1P9LbJ9EwAlxBetYtKPtxiZ",
+    "model":"gpt-4",
+    "object":"chat.completion",
+    "system_fingerprint":null,
+    "usage":{
+        "completion_tokens":504,
+        "prompt_tokens":955,
+        "total_tokens":1459
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "choices":[
+        {
+            "finish_reason":"stop",
+            "index":0,
+            "logprobs":null,
+            "message":{
+                "content":"sleeping_area 1 | 3.00 x 2.20 meters:\ndouble_bed 1 | a modern and elegant king-sized bed | 2.00 x 2.20 x 0.80 meters | [1.50, 1.10, 0.40] | place_center, sleeping_area 1 | 0\nnightstand 1 | a wooden nightstand with a drawer | 0.50 x 0.50 x 0.60 meters | right of, double_bed 1 | 0\nnightstand 2 | a wooden nightstand with a drawer | 0.50 x 0.50 x 0.60 meters | left of, double_bed 1 | 0\npendant_lamp 1 | a minimalist pendant lamp | 0.30 x 0.30 x 0.40 meters | above, double_bed 1 | 0\n\nstorage_area 1 | 1.00 x 3.00 meters:\nwardrobe 1 | a large white wardrobe with mirrored doors | 0.60 x 1.00 x 2.20 meters | [3.00, 2.50, 1.10] | place_along_wall, storage_area 1 | 90\n\nstudy_area 1 | 1.50 x 2.00 meters:\ndesk 1 | a spacious modern desk | 1.40 x 0.70 x 0.75 meters | [3.70, 0.70, 0.37] | place_along_wall, study_area 1 | 0\nchair 1 | a comfortable office chair | 0.60 x 0.60 x 0.90 meters | in front of, desk 1 | 0\nbookshelf 1 | a tall wooden bookshelf | 0.80 x 0.40 x 2.00 meters | right of, desk 1 | 90\n\nliving_area 1 | 2.50 x 2.00 meters:\nsofa 1 | a cozy two-seater sofa | 1.80 x 0.90 x 0.80 meters | [2.75, 4.50, 0.40] | place_center, living_area 1 | 0\ncoffee_table 1 | a small round coffee table | 0.60 x 0.60 x 0.45 meters | in front of, sofa 1 | 0\nfloor_lamp 1 | a sleek floor lamp | 0.30 x 0.30 x 1.60 meters | right of, sofa 1 | 0",
+                "role":"assistant"
+            }
+        }
+    ],
+    "created":1744895614,
+    "id":"chatcmpl-5U0aDw9RjwrYqZjHjtiBmGySG9Gx3",
+    "model":"gpt-4",
+    "object":"chat.completion",
+    "system_fingerprint":null,
+    "usage":{
+        "completion_tokens":553,
+        "prompt_tokens":951,
+        "total_tokens":1504
+    }
+}
