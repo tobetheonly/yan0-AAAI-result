@@ -1,0 +1,1168 @@
+{
+    "SecondBedroom-72989": [
+        {
+            "obj": "dressing_table",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "dressing_table",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "dressing_table",
+                "left of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.25,
+                -0.8500000238418579,
+                -0.0002495442167855799
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "dressing_table",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "dressing_table",
+            "relative_position": [
+                "double_bed",
+                "right of",
+                "dressing_table"
+            ],
+            "relative_coordinate": [
+                1.25,
+                0.8500000238418579,
+                0.00021759090304840356
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "dressing_chair",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "dressing_chair",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "dressing_chair",
+                "right of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.25,
+                -0.8500000238418579,
+                -4.236916720401496e-05
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "dressing_chair",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "dressing_chair",
+            "relative_position": [
+                "double_bed",
+                "left of",
+                "dressing_chair"
+            ],
+            "relative_coordinate": [
+                -1.25,
+                0.8500000238418579,
+                -0.000260144064668566
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "floor_lamp",
+                "inside",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                0.15406690537929535,
+                -0.45432049036026,
+                2.123512029647827
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "double_bed",
+                "surrounding",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -0.03778548538684845,
+                0.25356894731521606,
+                -2.2599611282348633
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "desk",
+            "func_obj": "wardrobe",
+            "cor_pred_obj": "desk",
+            "cor_pred_func_obj": "wardrobe",
+            "relative_position": [
+                "desk",
+                "behind",
+                "wardrobe"
+            ],
+            "relative_coordinate": [
+                -0.035059355199337006,
+                -0.4269905686378479,
+                -0.00020925707940477878
+            ],
+            "rel_ori": 90.0
+        },
+        {
+            "obj": "wardrobe",
+            "func_obj": "desk",
+            "cor_pred_obj": "wardrobe",
+            "cor_pred_func_obj": "desk",
+            "relative_position": [
+                "wardrobe",
+                "behind",
+                "desk"
+            ],
+            "relative_coordinate": [
+                -0.08960811793804169,
+                -0.43277066946029663,
+                -0.0005474474164657295
+            ],
+            "rel_ori": -180.0
+        },
+        {
+            "obj": "chair",
+            "func_obj": "wardrobe",
+            "cor_pred_obj": "chair",
+            "cor_pred_func_obj": "wardrobe",
+            "relative_position": [
+                "chair",
+                "left of",
+                "wardrobe"
+            ],
+            "relative_coordinate": [
+                -0.43772244453430176,
+                0.03175710141658783,
+                0.015383311547338963
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "wardrobe",
+            "func_obj": "chair",
+            "cor_pred_obj": "wardrobe",
+            "cor_pred_func_obj": "chair",
+            "relative_position": [
+                "wardrobe",
+                "behind",
+                "chair"
+            ],
+            "relative_coordinate": [
+                -0.07327398657798767,
+                -0.5227919220924377,
+                -0.062382906675338745
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "pendant_lamp",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "pendant_lamp",
+            "relative_position": [
+                "nightstand",
+                "behind",
+                "pendant_lamp"
+            ],
+            "relative_coordinate": [
+                -0.013726340606808662,
+                -0.7709712982177734,
+                -0.000427344290073961
+            ],
+            "rel_ori": -180.0
+        },
+        {
+            "obj": "pendant_lamp",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "pendant_lamp",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "pendant_lamp",
+                "behind",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                0.06831743568181992,
+                -0.7096629738807678,
+                -0.0007884082151576877
+            ],
+            "rel_ori": 90.0
+        },
+        {
+            "obj": "ceiling_lamp",
+            "func_obj": "pendant_lamp",
+            "cor_pred_obj": "ceiling_lamp",
+            "cor_pred_func_obj": "pendant_lamp",
+            "relative_position": [
+                "ceiling_lamp",
+                "inside",
+                "pendant_lamp"
+            ],
+            "relative_coordinate": [
+                0.07138091325759888,
+                -0.04155685752630234,
+                2.061091184616089
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "pendant_lamp",
+            "func_obj": "ceiling_lamp",
+            "cor_pred_obj": "pendant_lamp",
+            "cor_pred_func_obj": "ceiling_lamp",
+            "relative_position": [
+                "pendant_lamp",
+                "below",
+                "ceiling_lamp"
+            ],
+            "relative_coordinate": [
+                -0.11021897196769714,
+                0.17158152163028717,
+                -2.2463507652282715
+            ],
+            "rel_ori": 0.0
+        }
+    ],
+    "SecondBedroom-116650": [
+        {
+            "obj": "nightstand",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "nightstand",
+                "left of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.149999976158142,
+                -0.7999999970197678,
+                -0.0002898928360082209
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "double_bed",
+                "right of",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                1.149999976158142,
+                0.7999999970197678,
+                0.0001151142205344513
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "nightstand",
+                "right of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.149999976158142,
+                -0.7999999970197678,
+                -0.00011002695828210562
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "double_bed",
+                "left of",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                -1.149999976158142,
+                0.7999999970197678,
+                -0.0002745856181718409
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "ceiling_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "ceiling_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "ceiling_lamp",
+                "inside",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                0.08665436506271362,
+                -0.25205183029174805,
+                2.1103084087371826
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "ceiling_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "ceiling_lamp",
+            "relative_position": [
+                "double_bed",
+                "surrounding",
+                "ceiling_lamp"
+            ],
+            "relative_coordinate": [
+                0.06940223276615143,
+                0.14879031479358673,
+                -2.2455525398254395
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "wardrobe",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "wardrobe",
+            "relative_position": [
+                "floor_lamp",
+                "right of",
+                "wardrobe"
+            ],
+            "relative_coordinate": [
+                0.5499999895691872,
+                -0.20000001043081284,
+                0.7754855751991272
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "wardrobe",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "wardrobe",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "wardrobe",
+                "left of",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -0.5499999895691872,
+                0.20000001043081284,
+                -0.3462948501110077
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "chair",
+            "func_obj": "desk",
+            "cor_pred_obj": "chair",
+            "cor_pred_func_obj": "desk",
+            "relative_position": [
+                "chair",
+                "behind",
+                "desk"
+            ],
+            "relative_coordinate": [
+                -0.05635733902454376,
+                -0.652637243270874,
+                -0.0005895253852941096
+            ],
+            "rel_ori": -180.0
+        },
+        {
+            "obj": "desk",
+            "func_obj": "chair",
+            "cor_pred_obj": "desk",
+            "cor_pred_func_obj": "chair",
+            "relative_position": [
+                "desk",
+                "behind",
+                "chair"
+            ],
+            "relative_coordinate": [
+                -0.0673183873295784,
+                -0.6385361552238464,
+                -0.0005438937805593014
+            ],
+            "rel_ori": 90.0
+        }
+    ],
+    "MasterBedroom-12848": [
+        {
+            "obj": "chair",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "chair",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "chair",
+                "left front of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.199999988079071,
+                -0.9000000208616257,
+                -0.0002929652691818774
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "chair",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "chair",
+            "relative_position": [
+                "double_bed",
+                "right behind",
+                "chair"
+            ],
+            "relative_coordinate": [
+                1.199999988079071,
+                0.9000000208616257,
+                3.580185875762254e-05
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "bookshelf",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "bookshelf",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "bookshelf",
+                "right front of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.199999988079071,
+                -0.9000000208616257,
+                -0.00013643600686918944
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "bookshelf",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "bookshelf",
+            "relative_position": [
+                "double_bed",
+                "left behind",
+                "bookshelf"
+            ],
+            "relative_coordinate": [
+                -1.199999988079071,
+                0.9000000208616257,
+                -0.0002011927281273529
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "pendant_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "pendant_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "pendant_lamp",
+                "left behind",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.292181134223938,
+                -1.2487999200820923,
+                0.5986136794090271
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "pendant_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "pendant_lamp",
+            "relative_position": [
+                "double_bed",
+                "right front of",
+                "pendant_lamp"
+            ],
+            "relative_coordinate": [
+                1.3629844188690186,
+                0.9215624332427979,
+                -0.6924742460250854
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "wardrobe",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "wardrobe",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "wardrobe",
+                "inside",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                0.14862045645713806,
+                -0.6454663276672363,
+                2.115746259689331
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "wardrobe",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "wardrobe",
+            "relative_position": [
+                "double_bed",
+                "surrounding",
+                "wardrobe"
+            ],
+            "relative_coordinate": [
+                0.1699986308813095,
+                0.20681367814540863,
+                -2.0661754608154297
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "coffee_table",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "coffee_table",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "coffee_table",
+                "in front of",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                0.037913426756858826,
+                0.8767858743667603,
+                -0.0005196761339902878
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "coffee_table",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "coffee_table",
+            "relative_position": [
+                "nightstand",
+                "behind",
+                "coffee_table"
+            ],
+            "relative_coordinate": [
+                -0.03007359616458416,
+                -1.0998514890670776,
+                -0.0001914683816721663
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "sofa",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "sofa",
+            "relative_position": [
+                "floor_lamp",
+                "inside",
+                "sofa"
+            ],
+            "relative_coordinate": [
+                0.011298065073788166,
+                -0.034228064119815826,
+                2.0153753757476807
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "sofa",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "sofa",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "sofa",
+                "surrounding",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -0.4750000238418579,
+                0.42500001192092896,
+                -2.20367693901062
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "ceiling_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "ceiling_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "ceiling_lamp",
+                "behind",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                0.02777712233364582,
+                -2.0482840538024902,
+                0.00033252575667575
+            ],
+            "rel_ori": 90.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "ceiling_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "ceiling_lamp",
+            "relative_position": [
+                "double_bed",
+                "right of",
+                "ceiling_lamp"
+            ],
+            "relative_coordinate": [
+                1.6167840957641602,
+                -0.213350310921669,
+                -0.0003428120107855648
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "desk",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "desk",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "desk",
+                "right behind",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.3719189167022705,
+                -1.0909758806228638,
+                0.5825901627540588
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "desk",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "desk",
+            "relative_position": [
+                "double_bed",
+                "left front of",
+                "desk"
+            ],
+            "relative_coordinate": [
+                -1.2434380054473877,
+                1.2651137113571167,
+                -0.36374565958976746
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "floor_lamp",
+                "behind",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                0.08442478626966476,
+                -1.5074301958084106,
+                0.0008774969610385597
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "nightstand",
+                "left of",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -1.287974238395691,
+                0.0051076337695121765,
+                -4.757267015520483e-05
+            ],
+            "rel_ori": 0.0
+        }
+    ],
+    "SecondBedroom-142": [
+        {
+            "obj": "chair",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "chair",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "chair",
+                "left of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.0,
+                -0.7999999970197678,
+                -0.0005110679776407778
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "chair",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "chair",
+            "relative_position": [
+                "double_bed",
+                "right of",
+                "chair"
+            ],
+            "relative_coordinate": [
+                1.0,
+                0.7999999970197678,
+                -7.41407711757347e-05
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "bookshelf",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "bookshelf",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "bookshelf",
+                "right of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.0,
+                -0.7999999970197678,
+                -0.00011960607662331313
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "bookshelf",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "bookshelf",
+            "relative_position": [
+                "double_bed",
+                "left of",
+                "bookshelf"
+            ],
+            "relative_coordinate": [
+                -1.0,
+                0.7999999970197678,
+                -0.0003693942562676966
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "pendant_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "pendant_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "pendant_lamp",
+                "left behind",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.1526381969451904,
+                -1.0958012342453003,
+                0.47324317693710327
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "pendant_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "pendant_lamp",
+            "relative_position": [
+                "double_bed",
+                "right front of",
+                "pendant_lamp"
+            ],
+            "relative_coordinate": [
+                1.2557129859924316,
+                0.8114453554153442,
+                -0.3871195614337921
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "wardrobe",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "wardrobe",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "wardrobe",
+                "on top of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                0.17448420822620392,
+                -0.07716710865497589,
+                2.0591659545898438
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "wardrobe",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "wardrobe",
+            "relative_position": [
+                "double_bed",
+                "surrounding",
+                "wardrobe"
+            ],
+            "relative_coordinate": [
+                -0.045337989926338196,
+                -0.10749796032905579,
+                -2.0655550956726074
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "coffee_table",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "coffee_table",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "coffee_table",
+                "left front of",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                -1.460843563079834,
+                1.042932391166687,
+                -4.7401394112966955e-05
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "coffee_table",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "coffee_table",
+            "relative_position": [
+                "nightstand",
+                "right behind",
+                "coffee_table"
+            ],
+            "relative_coordinate": [
+                1.3380658626556396,
+                -0.9248613119125366,
+                -0.000320634339004755
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "sofa",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "sofa",
+            "relative_position": [
+                "floor_lamp",
+                "on top of",
+                "sofa"
+            ],
+            "relative_coordinate": [
+                0.16393902897834778,
+                0.1802086979150772,
+                1.9229656457901
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "sofa",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "sofa",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "sofa",
+                "below",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -0.07804207503795624,
+                0.13402266800403595,
+                -2.090334415435791
+            ],
+            "rel_ori": -180.0
+        },
+        {
+            "obj": "ceiling_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "ceiling_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "ceiling_lamp",
+                "right behind",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.1708800792694092,
+                -1.3700189590454102,
+                6.51578011456877e-06
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "ceiling_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "ceiling_lamp",
+            "relative_position": [
+                "double_bed",
+                "left front of",
+                "ceiling_lamp"
+            ],
+            "relative_coordinate": [
+                -0.9315909743309021,
+                1.0489897727966309,
+                -0.0007559985388070345
+            ],
+            "rel_ori": 180.0
+        },
+        {
+            "obj": "desk",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "desk",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "desk",
+                "right behind",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.2703864574432373,
+                -1.044577956199646,
+                1.2241849899291992
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "desk",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "desk",
+            "relative_position": [
+                "double_bed",
+                "left front of",
+                "desk"
+            ],
+            "relative_coordinate": [
+                -0.9887246489524841,
+                0.938258707523346,
+                -1.1238608360290527
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "floor_lamp",
+                "behind",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                -0.13440263271331787,
+                -1.4106160402297974,
+                0.0006660149083472788
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "nightstand",
+                "left of",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -1.3608688116073608,
+                0.08949272334575653,
+                0.0004721402074210346
+            ],
+            "rel_ori": 0.0
+        }
+    ],
+    "Bedroom-803": [
+        {
+            "obj": "nightstand",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "nightstand",
+                "left of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                -1.199999988079071,
+                -0.7999999970197678,
+                -0.0003662108792923391
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "double_bed",
+                "right of",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                1.199999988079071,
+                0.7999999970197678,
+                0.00011963718861807138
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "nightstand",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "nightstand",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "nightstand",
+                "right of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.199999988079071,
+                -0.7999999970197678,
+                -0.0005839579971507192
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "nightstand",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "nightstand",
+            "relative_position": [
+                "double_bed",
+                "left of",
+                "nightstand"
+            ],
+            "relative_coordinate": [
+                -1.199999988079071,
+                0.7999999970197678,
+                -0.0003289954620413482
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "floor_lamp",
+            "func_obj": "double_bed",
+            "cor_pred_obj": "floor_lamp",
+            "cor_pred_func_obj": "double_bed",
+            "relative_position": [
+                "floor_lamp",
+                "right front of",
+                "double_bed"
+            ],
+            "relative_coordinate": [
+                1.0318782329559326,
+                0.6590306162834167,
+                0.8713889122009277
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "double_bed",
+            "func_obj": "floor_lamp",
+            "cor_pred_obj": "double_bed",
+            "cor_pred_func_obj": "floor_lamp",
+            "relative_position": [
+                "double_bed",
+                "left behind",
+                "floor_lamp"
+            ],
+            "relative_coordinate": [
+                -0.8007546067237854,
+                -0.6715996861457825,
+                -0.7829316854476929
+            ],
+            "rel_ori": -90.0
+        },
+        {
+            "obj": "chair",
+            "func_obj": "desk",
+            "cor_pred_obj": "chair",
+            "cor_pred_func_obj": "desk",
+            "relative_position": [
+                "chair",
+                "behind",
+                "desk"
+            ],
+            "relative_coordinate": [
+                -0.13918426632881165,
+                -0.6962860226631165,
+                -0.0004140156088396907
+            ],
+            "rel_ori": 0.0
+        },
+        {
+            "obj": "desk",
+            "func_obj": "chair",
+            "cor_pred_obj": "desk",
+            "cor_pred_func_obj": "chair",
+            "relative_position": [
+                "desk",
+                "in front of",
+                "chair"
+            ],
+            "relative_coordinate": [
+                0.05175050348043442,
+                0.6570233106613159,
+                -0.0003016312257386744
+            ],
+            "rel_ori": 180.0
+        }
+    ]
+}
